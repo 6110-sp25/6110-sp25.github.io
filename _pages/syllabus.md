@@ -44,7 +44,7 @@ Please contact the course staff by posting on [Piazza][piazza] or emailing <6.11
   - Office hours details will be announced on [Piazza][piazza].
   - Since lecture dates are not all finalized at the start of the semester, please check the [schedule][schedule] regularly.
 - For all general questions and/or concerns, please post publicly on [Piazza][piazza]. If the matter is private, please post privately on [Piazza][piazza] or email the course staff at <6.110-staff@mit.edu>.
-- Miniquizzes and weekly check-ins need to be completed via [Gradescope][gradescope]. The join code is __<u>XGP4YW</u>__.
+- Weekly check-ins need to be completed via [Gradescope][gradescope]. The join code is __<u>XGP4YW</u>__.
 
 ### Recommended Texts
 
@@ -118,9 +118,7 @@ While you may discuss the high-level approaches to the project with anybody, you
 - You _are allowed_ to use reference material available online, as well as resources and existing libraries, as long as you cite them in your project reports, and they don't trivialize the project. (Please use your best judgment here, and ask the course staff if you are unsure.) If you decide to use larger code snippets, please also explain how you adapted and used them in your project report.
 - You _are allowed_ to use LLM-generated code. Make sure to read [the LLM policy](#llm-policy) below.
 - You _may not_ share any code with other teams.
-- You _may not_ post your project code or miniquiz solutions on publicly accessible websites or file spaces, including public GitHub repositories.
-
-You may collaborate on weekly miniquizzes, but you should write all your solutions yourself.
+- You _may not_ post your project code on publicly accessible websites or file spaces, including public GitHub repositories.
 
 ### LLM policy
 
