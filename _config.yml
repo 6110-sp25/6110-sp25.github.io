@@ -1,8 +1,60 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 6.110 Spring 2025
+description: Course website for 6.110 Spring 2025
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://6110-sp25.github.io
+
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: " "
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub: https://github.com/6110-sp25/
+  Piazza: https://piazza.com/mit/spring2025/6110/home
+  Gradescope: https://www.gradescope.com/courses/931853
+  #Panopto: https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d9c5bec3-4afa-49de-9a1b-b111011782b3
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  notes:
+    output: true
+    permalink: /:collection/:name
+
+# Set up the _pages collection to host most course-related pages
+# Home is in index.md
+defaults:
+  # Default values to apply to all _pages
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: "_notes"
+      type: "notes"
+    values:
+      layout: note
+
+# Make just_the_docs aware of the _pages collection
+just_the_docs:
+  collections:
+    pages:
+      name: Course Handouts
+    # notes:
+    #   name: Guides & Tutorials
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow
+  announcement:
+    title: Announcement
+    color: blue
+  weekly:
+    title: Weekly updates
+    color: green
