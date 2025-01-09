@@ -35,7 +35,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 3. [Code generation][rl-3] ([6 pages/slide][rl-3-6pages])
 4. [Program analysis and optimization][rl-4] ([6 pages/slide][rl-4-6pages])
 5. [Foundations of dataflow analysis][rl-5] ([6 pages/slide][rl-5-6pages])
-6. [Register allocation, loop optimizations, parallelization][rl-6]: see lecture slides [L09][l09], [L10][l10], [L11][l11].
+6. [Register allocation, loop optimizations, parallelization][rl-6]: see lecture slides L09, L10, and L11.
 
 [rl-1]: assets/documents/relectures/relecture-1.pdf
 [rl-1-6pages]: assets/documents/relectures/relecture-1-6pages.pdf

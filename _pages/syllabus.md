@@ -27,6 +27,7 @@ nav_order: 10
 
 #### Teaching Assistants
 
+- Chengyuan Ma (<macy404@mit.edu>)
 - Youran (Yoland) Gao (<youran@mit.edu>)
 - Shruti Siva (<shrutsiv@mit.edu>)
 - Kosi Nwabueze (<kosinw@mit.edu>)

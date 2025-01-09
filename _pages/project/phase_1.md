@@ -33,7 +33,7 @@ You are welcome to use scanner/parser generators, or to write this code by hand.
 
 Your scanner must be able to identify tokens of the Decaf language, the simple imperative language we will be compiling in 6.110. The language is described in the [Decaf spec]({%link _pages/project/decaf-spec.md%}). Your scanner should note illegal characters, missing quotation marks, and other lexical errors with reasonable error messages. The scanner should find as many lexical errors as possible, and should be able to continue scanning after errors are found. The scanner should also filter out comments and whitespace not in string and character literals.
 
-When `-t scan` is specified, the output of your compiler should be a scanned listing of the program with one row for each token in the input. Each line will contain the following information: the line number (starting at 1) on which the token appears, the type of the token (if applicable), and the token's text. Please print only the following strings as token types: `CHARLITERAL`, `INTLITERAL`, `BOOLEANLITERAL`, `STRINGLITERAL` and `IDENTIFIER`.
+When `-t scan` is specified, the output of your compiler should be a scanned listing of the program with one row for each token in the input. Each line will contain the following information: the line number (starting at 1) on which the token appears, the type of the token (if applicable), and the token's text. Emit int casts as `int`, `(`, `)`, and long casts as `long`, `(`, `)` on separate lines. Please print only the following strings as token types: `CHARLITERAL`, `INTLITERAL`, `LONGLITERAL`, `BOOLEANLITERAL`, `STRINGLITERAL` and `IDENTIFIER`.
 
 For `STRINGLITERAL` and `CHARLITERAL`, the text of the token should be the text, as appears in the original program, including the quotes and any escaped characters.
 
@@ -71,7 +71,6 @@ This phase is worth 5% of the overall grade in this class. Each student will be 
 
 - Writing (and debugging!) a front-end for a non-trivial language is a useful skill. Think about being able to quickly prototype a domain specific language in a few hours once you master the parsing techniques and tools.
 - The following phases in this class will require a front-end for the Decaf language.  Typically, this front-end will be constructed by combining the parsers written by the individual students.
-- Your parser serves as an advertisement to the potential group mates. It gives a good indicator for how much your group can expect from you in the follow-up phases.
 
 Your grade in this phase (5% total) is allocated as follows:
 
