@@ -33,7 +33,7 @@ nav_order: 10
 - Kosi Nwabueze (<kosinw@mit.edu>)
 - Felix Prasanna  (<fpx@mit.edu>)
 
-Please contact the course staff by posting on [Piazza][piazza] or emailing <6.110-staff@mit.edu> [NEED TO UPDATE FROM KRIT].
+Please contact the course staff by posting on [Piazza][piazza] or emailing <6.110-staff@mit.edu>.
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ If you are unable to attend a lecture, there are recorded re-lectures videos fro
 
 ### Weekly Check-ins
 
-In an effort to ensure your project stays on track, your team should submit a short weekly check-in on [Gradescope][gradescope]. We will provide a weekly "mini-quiz" with solutions for practice only. They are useful for checking your understanding of the lecture material and also serve as good preparation material for the quizzes.
+In an effort to ensure your project stays on track, your team should submit a short weekly check-in on [Gradescope][gradescope]. We will provide a weekly "mini-quiz" graded for completion only. They are useful for checking your understanding of the lecture material and also serve as good preparation material for the quizzes.
 
 ### Quizzes
 
@@ -105,7 +105,7 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |
 | Quiz 1                                                       | 10%    |
 | Quiz 2                                                       | 10%    |
-| Participation (Weekly check-in, checkpoint meetings)         | 5%     |
+| Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
 
 For more information on the way the compiler project is graded, see the [Project Overview][project].
 
