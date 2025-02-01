@@ -112,14 +112,14 @@ If none of the office hours times work for you, please reach out to us at 6.110-
 | Project phase 2 (IR and semantic checking)                   | 5%     |
 | Project phase 3 (code generation)                            | 15%    |
 | Project phase 4 (dataflow optimization)                      | 10%    |
-| Project phase 5 (register allocation and other optimizations) <br/>and final submission | 40%    |
+| Project phase 5 (register allocation and other optimizations) <br/>and final report/submission | 40%    |
 | Quiz 1                                                       | 10%    |
 | Quiz 2                                                       | 10%    |
 | Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
 
 | Option B                                                     | Weight |
 | ------------------------------------------------------------ | ------ |
-| Phase 5 Final Submission                                     | 75%    |
+| Final project report + final submission                      | 75%    |
 | Quiz 1                                                       | 10%    |
 | Quiz 2                                                       | 10%    |
 | Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
