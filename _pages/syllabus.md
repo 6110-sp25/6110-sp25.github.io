@@ -69,10 +69,11 @@ Nominally, class meetings are one hour long and take place at [32-124][bldg32] a
 - At 11 a.m. on Mondays, Wednesdays, and Fridays.
 - At 12 p.m. (noon) on Tuesdays and Thursdays.
 
-_Lectures_, which will cover the fundamental concepts and structures of compilers, will be held on Mondays through Thursdays, and _recitations_, which will focus more on the project, will be held on Fridays. (Please disregard the official listing of "lectures" versus "recitations".)
+_Lectures_, which will cover the fundamental concepts and structures of compilers, will be held on Mondays through Thursdays, and _recitations_, which will focus more on the project, will be held on Fridays. (Please *disregard* the official listing of "lectures" versus "recitations".)
 
- __Please check the [schedule][schedule] regularly.__ Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects.
- There will be weeks that have few or no lectures, especially as we draw closer to project deadlines. (Last year, there were around 7 weeks of lectures in total.) We will also announce urgent changes on [Piazza][piazza].
+__Please check the [schedule][schedule] regularly.__ Lecture dates are not all finalized at the start of the semester. Some lectures may be canceled or moved depending on the class's comfort and progress on the projects.
+
+There will be weeks that have few or no lectures, especially as we draw closer to project deadlines. (Last year, there were around 7 weeks of lectures in total.) We will also announce urgent changes on [Piazza][piazza].
 
 #### Re-lectures
 
@@ -84,17 +85,28 @@ In an effort to ensure your project stays on track, your team should submit a sh
 
 ### Quizzes
 
-Two quizzes, each worth 10%, will be held during class time on __TBD__, and **TBD**.
+Two quizzes, each worth 10%, will be held during class time on __TBA__, and **TBA**.
 More information about quizzes, including practice material, will be released closer to the quiz dates.
 If you have a conflict with the quiz dates, please let the course staff know as early as possible.
+We will release the quiz dates on the first week of classes.
 
 ### Office hours
 
-- TBD
+We will be offering at least three office hours on weeks with a project phase deadline at these times, location TBA:
+
+- Wed from 4-6pm
+- Thurs from 4-6pm
+- Friday from 2-7pm
+
+On weeks without a phase deadline, there will be fewer office hours, locations and times TBA. 
+
+If none of the office hours times work for you, please reach out to us at 6.110-staff@mit.edu 
 
 ## Policies
 
 ### Grading
+
+***Option A:***
 
 | Component                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
@@ -106,6 +118,19 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 | Quiz 1                                                       | 10%    |
 | Quiz 2                                                       | 10%    |
 | Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
+
+***Option B:***
+
+| Component                                                    | Weight |
+| ------------------------------------------------------------ | ------ |
+| Phase 5 Final Submission                                     | 75%    |
+| Quiz 1                                                       | 10%    |
+| Quiz 2                                                       | 10%    |
+| Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
+
+Your grade will be the higher of Option A or Option B, and you do not need to inform us ahead of time which option you are taking. 
+
+Although Option B allows you to pass the class by submitting a working compiler by the Phase 5 deadline, we **strongly encourage** you to follow the phase 1/2/3/4 deadlines, as the compiler is a non-trivial software system that will take a significant amount of engineering time on your part. Before submitting your team preference form, make sure your team members have agreed on a timeline for completing the project.
 
 For more information on the way the compiler project is graded, see the [Project Overview][project].
 
