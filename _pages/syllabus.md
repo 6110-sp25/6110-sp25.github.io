@@ -106,9 +106,7 @@ If none of the office hours times work for you, please reach out to us at 6.110-
 
 ### Grading
 
-***Option A:***
-
-| Component                                                    | Weight |
+| Option A                                                     | Weight |
 | ------------------------------------------------------------ | ------ |
 | Project phase 1 (lexing and parsing)                         | 5%     |
 | Project phase 2 (IR and semantic checking)                   | 5%     |
@@ -119,9 +117,7 @@ If none of the office hours times work for you, please reach out to us at 6.110-
 | Quiz 2                                                       | 10%    |
 | Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
 
-***Option B:***
-
-| Component                                                    | Weight |
+| Option B                                                     | Weight |
 | ------------------------------------------------------------ | ------ |
 | Phase 5 Final Submission                                     | 75%    |
 | Quiz 1                                                       | 10%    |
