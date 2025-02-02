@@ -7,7 +7,11 @@ nav_order: 60
 
 Supplemental readings are listed under each lecture. You may find them useful. You are not responsible for the contents not covered in lecture.
 
-1. Check back later.
+1. 02/03 — Introduction
+
+   - *Cooper et al*., Ch. 1 Overview of Compilation, p.p. 1-23 (2nd ed.), p.p. 1-26 (3rd ed.).
+
+    
 
 ### Optional content
 
@@ -24,7 +28,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 ## Recitations
 
 {:style="counter-reset:step-counter -1"}
-0. Check back later
+0. 02/03 — Course information
 
 
 

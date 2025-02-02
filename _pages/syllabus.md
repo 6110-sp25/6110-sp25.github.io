@@ -98,15 +98,20 @@ We will be offering at least three office hours on weeks with a project phase de
 - Thurs from 4-6pm
 - Friday from 2-7pm
 
-On weeks without a phase deadline, there will be fewer office hours, locations and times TBA. 
+On weeks without a phase deadline, there will be fewer office hours:
 
-If none of the office hours times work for you, please reach out to us at 6.110-staff@mit.edu 
+- Wed from 4-6pm
+- Others as announced
+
+If none of the office hours times work for you, please reach out to us at <6.110-staff@mit.edu>.
 
 ## Policies
 
 ### Grading
 
-| Option A                                                     | Weight |
+#### Option A
+
+| Component                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
 | Project phase 1 (lexing and parsing)                         | 5%     |
 | Project phase 2 (IR and semantic checking)                   | 5%     |
@@ -117,7 +122,9 @@ If none of the office hours times work for you, please reach out to us at 6.110-
 | Quiz 2                                                       | 10%    |
 | Participation (Weekly check-in, miniquizzes, checkpoint meetings) | 5%     |
 
-| Option B                                                     | Weight |
+#### Option B
+
+| Component                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
 | Final project report + final submission                      | 75%    |
 | Quiz 1                                                       | 10%    |

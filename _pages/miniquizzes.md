@@ -9,4 +9,4 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 
 As long as you have submitted on Gradescope, you will receive *full credit* for the miniquiz. We will provide feedback on the accuracy of your mini-quiz answers through Gradescope.
 
-- Check back later!
+- [Miniquiz #1 (due Feb 15)](https://www.gradescope.com/courses/931853/assignments/5713155) — Regular languages, context-free languages ([Blank](https://6110-sp24.github.io/assets/documents/miniquizzes/miniquiz-1.pdf))

@@ -87,6 +87,8 @@ Other compiler textbooks you may be interested in:
 
 Many of these textbooks are [available online through MIT Libraries][mitlib]. (For some books, you can borrow physical copies!) You can purchase the textbooks through traditional means (e.g. Amazon) or ask the TAs for advice on acquiring the textbooks.
 
+
+
 ## Other sources of inspiration
 
 1. Overviews
