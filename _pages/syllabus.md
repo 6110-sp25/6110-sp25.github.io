@@ -85,10 +85,9 @@ In an effort to ensure your project stays on track, your team should submit a sh
 
 ### Quizzes
 
-Two quizzes, each worth 10%, will be held during class time on __TBA__, and **TBA**.
+Two quizzes, each worth 10%, will be held during class time on **March 14th** and **May 2nd**.
 More information about quizzes, including practice material, will be released closer to the quiz dates.
 If you have a conflict with the quiz dates, please let the course staff know as early as possible.
-We will release the quiz dates on the first week of classes.
 
 ### Office hours
 
