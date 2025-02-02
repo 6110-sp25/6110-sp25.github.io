@@ -22,7 +22,7 @@ syscall
 - If you are using a computer with Apple Silicon (your chip is M1, M2, M3, etc.), you will need to cross compile your code as these chips are based on an ARM architecture
 
 On Apple Silicon, pass `-arch x86_64` to cross compile to x86. 
-You must also have Rosetta (translation layer between ARM and x86) installed https://support.apple.com/en-us/102527:
+You must also have Rosetta (translation layer between ARM and x86) installed (see this [Apple Support article](https://support.apple.com/en-us/102527)):
 
 ```
 gcc -O0 -arch x86_64 compile.S -o compile.o
