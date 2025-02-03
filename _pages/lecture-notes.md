@@ -28,9 +28,9 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 ## Recitations
 
 {:style="counter-reset:step-counter -1"}
-0. 02/03 — Course information
+0. 02/03 — [Course information]([r00])
 
-
+[r00]: assets/documents/recitations/r0-course-information.pdf
 
 ## Re-lectures from 2024
 
