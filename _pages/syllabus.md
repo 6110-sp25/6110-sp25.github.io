@@ -64,10 +64,10 @@ Details about the project can be found on the [Project Overview][project] page. 
 
 ### Class meetings
 
-Nominally, class meetings are one hour long and take place at [32-124][bldg32] at the following times:
+Nominally, class meetings are one hour long and take place at ~~32-124~~ (**see updates below**) at the following times:
 
-- At 11 a.m. on Mondays, Wednesdays, and Fridays.
-- At 12 p.m. (noon) on Tuesdays and Thursdays.
+- At 11 a.m. on Mondays, Wednesdays, and Fridays in **<u>32-123</u>**
+- At 12 p.m. (noon) on Tuesdays and Thursdays in **<u>32-155</u>**
 
 _Lectures_, which will cover the fundamental concepts and structures of compilers, will be held on Mondays through Thursdays, and _recitations_, which will focus more on the project, will be held on Fridays. (Please *disregard* the official listing of "lectures" versus "recitations".)
 
