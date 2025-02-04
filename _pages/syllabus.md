@@ -91,16 +91,7 @@ If you have a conflict with the quiz dates, please let the course staff know as 
 
 ### Office hours
 
-We will be offering at least three office hours on weeks with a project phase deadline at these times, location TBA:
-
-- Wed from 4-6pm
-- Thurs from 4-6pm
-- Friday from 2-7pm
-
-On weeks without a phase deadline, there will be fewer office hours:
-
-- Wed from 4-6pm
-- Others as announced
+See the "Office Hour" page on the website. We will try to have more Office Hours during weeks with phase deadlines.
 
 If none of the office hours times work for you, please reach out to us at <6.110-staff@mit.edu>.
 
