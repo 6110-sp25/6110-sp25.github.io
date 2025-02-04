@@ -7,16 +7,16 @@ nav_order: 60
 
 Supplemental readings are listed under each lecture. You may find them useful. You are not responsible for the contents not covered in lecture.
 
-1. 02/03 — [Introduction][l01] ([6 slides/page][l01-6])
+1. [Introduction][l01] ([6 slides/page][l01-6])
 
-   - *Cooper et al*., Ch. 1 Overview of Compilation, p.p. 1-23 (2nd ed.), p.p. 1-26 (3rd ed.).
+   - *Cooper et al*., Ch. 1 Overview of Compilation, p.p. 1-23 (2nd ed.), p.p. 1-26 (3rd ed.)
 
-2. 02/04-02/05 — [Specifying Languages with Regular Expressions and Context-Free Grammars][l02] ([6 slides/page][l02-6])
+2. [Specifying Languages with Regular Expressions and Context-Free Grammars][l02] ([6 slides/page][l02-6])
 
    - *Cooper et al*., Ch. 2 Scanners, p.p. 25-82 (2nd ed.), p.p. 27-84 (3rd ed.).
-   - *Cooper et al*., Ch. 3 Parsers, § 3.1-3.2, p.p. 83-95 (2nd ed.), p.p. 85-98 (3rd ed.). 
+   - *Cooper et al*., Ch. 3 Parsers, § 3.1-3.2, p.p. 83-95 (2nd ed.), p.p. 85-98 (3rd ed.).
 
-3. 02/06 — [Top-down Parsing][l03] ([6 slides/page][l03-6])
+3. [Top-down Parsing][l03] ([6 slides/page][l03-6])
     
    - *Cooper et al*., Ch. 3 Parsers, § 3.3 Top-Down-Parsing, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
 
@@ -28,8 +28,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 
 [l01]: assets/documents/lectures/L01-Introduction.pdf
 [l01-6]: assets/documents/lectures/L01-Introduction-6pages.pdf
-[l02]: assets/documents/lectures/L02-RegularExpressions.pdf
-[l02-6]: assets/documents/lectures/L02-RegularExpressions-6pages.pdf
+[l02]: assets/documents/lectures/L02-RegularExpressionsAndGrammars.pdf
+[l02-6]: assets/documents/lectures/L02-RegularExpressionsAndGrammars-6pages.pdf
 [l03]: assets/documents/lectures/L03-TopDownParsing.pdf
 [l03-6]: assets/documents/lectures/L03-TopDownParsing-6pages.pdf
 [lshift]: assets/documents/lectures/L-ShiftReduceParsing.pdf

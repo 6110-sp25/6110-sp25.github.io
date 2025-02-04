@@ -27,6 +27,8 @@ The autograder is running Ubuntu 22.04, with the following software:
   - CMake: 3.22.1
 - GHC (Haskell): 8.8.4
   - cabal: 3.0.0.0
+- Ocaml: 4.13.1
+  - opam: 2.1.2
 
 Please make sure your submission is compatible with these versions, and that all other dependencies are self-contained in the project. If you are planning to use a different language, or need a dependency not listed where which is not feasible to package with your project, please contact the course staff.
 
