@@ -16,6 +16,10 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
    - *Cooper et al*., Ch. 2 Scanners, p.p. 25-82 (2nd ed.), p.p. 27-84 (3rd ed.).
    - *Cooper et al*., Ch. 3 Parsers, § 3.1-3.2, p.p. 83-95 (2nd ed.), p.p. 85-98 (3rd ed.).
 
+3. [Top-down Parsing][l03] ([6 slides/page][l03-6])
+    
+   - *Cooper et al*., Ch. 3 Parsers, § 3.3 Top-Down-Parsing, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
+
 ### Optional content
 
 1. [Shift-Reduce Parsing][lshift] ([6 slides/page][lshift-6])
@@ -26,6 +30,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [l01-6]: assets/documents/lectures/L01-Introduction-6pages.pdf
 [l02]: assets/documents/lectures/L02-RegularExpressionsAndGrammars.pdf
 [l02-6]: assets/documents/lectures/L02-RegularExpressionsAndGrammars-6pages.pdf
+[l03]: assets/documents/lectures/L03-TopDownParsing.pdf
+[l03-6]: assets/documents/lectures/L03-TopDownParsing-6pages.pdf
 [lshift]: assets/documents/lectures/L-ShiftReduceParsing.pdf
 [lshift-6]: assets/documents/lectures/L-ShiftReduceParsing-6pages.pdf
 [cooper]: https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935028392606761
