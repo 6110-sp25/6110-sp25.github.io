@@ -49,7 +49,7 @@ Git doesn't avoid or substitute for doing that work, it just makes it easier, e.
 If you'd like to follow along, create a new repository on GitHub (click the `+` at the top right, enter any repository name, probably set it to private, and untick everything under `Initialize this repository with:`. Then get the URL of the repository in the `Quick setup` box. This will hold our "main branch". Navigate to `~/Documents` (or wherever you'd like to put the tutorial files) and run the following commands to initialize the main branch with the course `java-skeleton` code:
 
 ```
-git clone git@github.com:6035-sp23/java-skeleton.git example-project
+git clone <the url of the template repo> example-project
 cd example-project
 git remote set-url origin <your new github repo url>
 git push origin main
