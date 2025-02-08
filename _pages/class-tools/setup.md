@@ -10,7 +10,7 @@ You will need an x86-64 Unix environment to run the class tools and ensure that 
 
 Our officially supported programming languages are Java, Scala, Rust, and Typescript. If you are unsure which language to choose, you should default to Java.
 
-If you're not already on a Unix environment (e.g., Linux, MacOS, WSL, MinGW), you can [set up a virtual machine](vm.md). Alternatively, you can use [the Athena environment](https://ist.mit.edu/athena).[^1]
+If you're not already on a Unix environment (e.g., Linux, MacOS, WSL, MinGW), you can set up a virtual machine or use WSL. Alternatively, you can use [the Athena environment](https://ist.mit.edu/athena).[^1]
 
 Since you'll be doing a lot of coding in your chosen environment, it's worth investing effort into customizing it to be comfortable and productive for you. This might include installing your favorite text editor, tweaking your VM settings, or figuring out how to make your favorite IDE work with the class tools. A common solution is to develop on your local machine and run the compiler on the Unix environment (synchronyzing code with a [shared folder](https://docs.vmware.com/en/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUID-D6D9A5FD-7F5F-4C95-AFAB-EDE9335F5562.html), `scp`, `rsync`, `sshfs`, or git).
 
@@ -21,7 +21,7 @@ You may wish to install the same version of your programming language and build 
 
 ## ARM Environments
 
-If you have an ARM environment, you will likely not be able to install an x86-64 Linux VM with VMware/VirtualBox. If you are using a recent (M1/M2) Mac, [Rosetta 2](https://support.apple.com/en-us/HT211861) should allow you to run x86-64 programs. If you are using another ARM environment without the ability to emulate x86-64 programs, you can develop on Athena. In either case, you may be able to use QEMU or equivalent to run an x86-64 Linux.
+If you have an ARM environment, you can install an x86-64 Linux VM using [OrbStack](https://orbstack.dev/). If you are using a recent (M1/M2) Mac, [Rosetta 2](https://support.apple.com/en-us/HT211861) should allow you to run x86-64 programs. You can manually run a command in emulation mode using `arch -x86_64 <program>` (this is helpful for calling an x86-64 `gcc/clang` on your assembly output). If you are using another ARM environment without the ability to emulate x86-64 programs, you can develop on Athena. In either case, you may be able to use QEMU or equivalent to run an x86-64 Linux.
 
 It is your responsibility to ensure that your compiler is entirely compatible with the x86 grading environment -- you can test this on Athena. If you are having issues, please contact the TAs.
 
