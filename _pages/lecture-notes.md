@@ -40,8 +40,10 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 
 {:style="counter-reset:step-counter -1"}
 0. 02/03 — [Course information][r00]
+1. 02/07 - [Project Overview/Phase 1][r01]
 
 [r00]: assets/documents/recitations/r0-course-information.pdf
+[r01]: assets/documents/recitations/r01-project-overview-phase1.pdf
 
 ## Re-lectures from 2024
 
