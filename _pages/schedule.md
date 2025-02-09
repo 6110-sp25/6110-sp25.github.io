@@ -16,7 +16,7 @@ The lectures and recitations are one hour long and take place at [32-124][bldg] 
 |     | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :-: | :----: | :-----: | :-------: | :------: | :----: |
 | 02/03 - 02/07 | _First day of classes_ <br/> [L1: Intro][lecs], [R0: Info][recs] | [L2: Regex][lecs] | [L2: Regex][lecs] | [L3: Parsing][lecs] | Phase 1 released <br/> [R1: Phase 1][recs] |
-| 02/10 - 02/14 |                                                              | [R2: Hand-Written Parser][recs] | [L3: IR][lecs] | [L4: IR][lecs] | [R3: Parser Generators][recs] |
+| 02/10 - 02/14 | [Re-lecture 1][relecs] | [R2: Hand-Written Parser][recs] | [L3: IR][lecs] | [L4: IR][lecs] | [R3: Parser Generators][recs] |
 | 02/17 - 02/21 | _Presidents' Day Holiday_ | _Monday schedule_ | **Team submission** | | **Phase 1 due** <br/> Phase 2 released <br/> [R4: Phase 2][recs] |
 | 02/24 - 02/28 | | |  | | [R5: TBD][recs] |
 | 03/03 - 03/07 | |                                            |                          |                     | _Add date_ <br/> **Phase 2 due** <br/> Phase 3 released <br/> [R6: Phase 3][recs] |

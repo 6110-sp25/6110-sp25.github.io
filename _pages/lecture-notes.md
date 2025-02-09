@@ -65,3 +65,6 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [rl-5]: assets/documents/relectures/relecture-5.pdf
 [rl-5-6pages]: assets/documents/relectures/relecture-5-6pages.pdf
 [rl-6]: assets/documents/relectures/relecture-6.pdf
+
+## Recordings
+All recitations and re-lectures are recorded and [published on Panopto](https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=d1b52dac-7f75-4148-ae95-b27f000ebb7e).
