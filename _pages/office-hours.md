@@ -5,6 +5,13 @@ nav_order: 15
 
 This page contains the schedule for staff office hours.
 
+Here are the normal recitation times and locations:
+- W: 4pm - 6pm at **26-210**
+- F: 3pm - 7pm at **36-372**
+
+For weeks with project deadlines, we have the additional office hours:
+- R: 4 - 6pm at **26-210**
+
 The following is a list of programming languages each TA is comfortable with.
 
 - **Chengyuan**: Rust, TypeScript, Java
