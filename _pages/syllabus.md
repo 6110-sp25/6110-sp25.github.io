@@ -8,6 +8,11 @@ nav_order: 10
 
 {% include toc.html %}
 
+## Changelog
+
+- **2/5/25**: Changed recitation location from TR (32-123) to TR (32-155).
+- **2/11/25**: Changed recitation period in catalog description to be from 32-124 to 32-155.
+
 ## Basic Information
 
 ### MIT Catalog Description
@@ -15,7 +20,7 @@ nav_order: 10
 > [6.1100<sub>\[6.035\]</sub> Computer Language Engineering][catalog] \\
 > **Prereq:** [6.1020<sub>\[6.031\]</sub>][031] and [6.1910<sub>\[6.004\]</sub>][004] \\
 > **Units:** 4-4-4 \\
-> **Lecture:** _MWF11_ ([32-124][bldg32]) Recitation: _TR12_ ([32-124][bldg32])
+> **Lecture:** _MWF11_ ([32-124][bldg32]) Recitation: _TR12_ ([32-155][bldg32])
 >
 > Analyzes issues associated with the implementation of higher-level programming languages. Fundamental concepts, functions, and structures of compilers. The interaction of theory and practice. Using tools in building software. Includes a multi-person project on compiler design and implementation.
 
