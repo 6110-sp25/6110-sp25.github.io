@@ -20,6 +20,11 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
     
    - *Cooper et al*., Ch. 3 Parsers, § 3.3 Top-Down-Parsing, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
 
+4. [Intermediate Formats][l04] ([6 slides/page][l04-6])
+    - *Cooper et al.*, Ch. 5 Intermediate Representations, p.p. 221-268 (2nd ed.), Ch. 4, p.p. 159-207 (3rd ed.).
+    - *Cooper et al.*, Ch. 6 The Procedure Abstraction, § 6.3 Name Spaces, p.p. 276-297 (2nd ed.).
+    - *Cooper et al.*, Ch. 5 Syntax Driven Translation, § 5.4 Modeling the Naming Environment, p.p. 227-239 (3rd ed.).
+
 ### Optional content
 
 1. [Shift-Reduce Parsing][lshift] ([6 slides/page][lshift-6])
@@ -32,6 +37,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [l02-6]: assets/documents/lectures/L02-RegularExpressionsAndGrammars-6pages.pdf
 [l03]: assets/documents/lectures/L03-TopDownParsing.pdf
 [l03-6]: assets/documents/lectures/L03-TopDownParsing-6pages.pdf
+[l04]: assets/documents/lectures/L04-IntermediateFormats.pdf
+[l04-6]: assets/documents/lectures/L04-IntermediateFormats-6pages.pdf
 [lshift]: assets/documents/lectures/L-ShiftReduceParsing.pdf
 [lshift-6]: assets/documents/lectures/L-ShiftReduceParsing-6pages.pdf
 [cooper]: https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935028392606761
