@@ -129,4 +129,4 @@ The Typescript skeleton uses Node for builds, and Mocha for unit tests. An examp
 
 All skeleton projects come with a `build.sh` and `run.sh` in the project root. Use these to build and run your compiler respectively. They will also be used for grading, so if you make any changes to the build or run process, make sure to modify these files to reflect them. In general, these two files are the only restriction we impose on the structure of your projects. If you decide to change the repository structure, or even use a language for which we have no template, you just need to modify `build.sh` and `run.sh` to correctly build and run your system.
 
-Arguments passed to `run.sh` are passed straight to your compiler. Read the Compiler Project information for more information about the command-line arguments that your compiler should accept.
+Arguments passed to `run.sh` are passed straight to your compiler. Read [Command Line Reference](/project/#command-line-reference) for more information about the command-line arguments that your compiler should accept.
