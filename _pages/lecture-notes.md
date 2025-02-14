@@ -17,7 +17,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
    - *Cooper et al*., Ch. 3 Parsers, § 3.1-3.2, p.p. 83-95 (2nd ed.), p.p. 85-98 (3rd ed.).
 
 3. [Top-down Parsing][l03] ([6 slides/page][l03-6])
-    
+   
    - *Cooper et al*., Ch. 3 Parsers, § 3.3 Top-Down-Parsing, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
 
 4. [Intermediate Formats][l04] ([6 slides/page][l04-6])
@@ -48,6 +48,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 {:style="counter-reset:step-counter -1"}
 0. 02/03 — [Course information][r00]
 1. 02/07 - [Project Overview/Phase 1][r01]
+2. 02/11 - [Hand-written Parser Demo](https://github.com/6110-sp25/recitation2/)
+3. 02/14 - [Parser Generator Demo](https://github.com/6110-sp25/recitation3)
 
 [r00]: assets/documents/recitations/r0-course-information.pdf
 [r01]: assets/documents/recitations/r01-project-overview-phase1.pdf
