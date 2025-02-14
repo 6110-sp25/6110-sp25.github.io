@@ -109,7 +109,7 @@ Your project design document will make up a portion of your grade for each phase
 Your compiler should have the following command line interface.
 
 ```
-./run.sh [options] filename
+./run.sh filename [options]
 ```
 
 | **Option**                      | **Description**                                              |
