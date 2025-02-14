@@ -28,7 +28,7 @@ You must also have Rosetta (translation layer between ARM and x86) installed (se
 gcc -O0 -arch x86_64 compile.S -o compile.o
 ```
 where compile.S is your assembly file and compiler.o is the output executable object file.
-## Consider Adding a macOS CLI flag
+## Consider Adding a macOS CLI Flag
 
 If your team has at least one macOS user, you may want to consider adding a command line flag (e.g. `-m, --mac`) to toggle the code generator between Linux and macOS mode. This is because the autograder will be running on Linux, but you may want to debug on macOS.
 ## LLDB vs GDB
