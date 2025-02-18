@@ -20,16 +20,16 @@ The lectures and recitations are one hour long and take place:
 |     | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :-: | :----: | :-----: | :-------: | :------: | :----: |
 | 02/03 - 02/07 | _First day of classes_ <br/> [L1: Intro][lecs], [R0: Info][recs] | [L2: Regex][lecs] | [L2: Regex][lecs] | [L3: Parsing][lecs] | Phase 1 released <br/> [R1: Phase 1][recs] |
-| 02/10 - 02/14 | [Re-lecture 1][relecs] | [R2: Hand-Written Parser][recs] | [L4: IR][lecs] | [L4: IR][lecs] | [R3: Parser Generators][recs] |
+| 02/10 - 02/14 |  | [R2: Hand-Written Parser][recs] | [L4: IR][lecs] | [L4: IR][lecs] | [R3: Parser Generators][recs] |
 | 02/17 - 02/21 | _Presidents' Day Holiday_ | _Monday schedule_<br />[L5: Semantics][lecs] | **Team submission**<br />[L5: Semantics][lecs] | | **Phase 1 due** <br/> Phase 2 released <br/> [R4: Phase 2][recs] |
 | 02/24 - 02/28 | [L6: Codegen][lecs] | [L6: Codegen][lecs] | [L6: Codegen][lecs] | [L6: Codegen][lecs] | [R5: SSA][recs] |
-| 03/03 - 03/07 |  |  |  | [R5: x86][recs] | _Add date_ <br/> **Phase 2 due** <br/> Phase 3 released <br/> [R6: Phase 3][recs] |
+| 03/03 - 03/07 |  |  |  | [R6: x86][recs] | _Add date_ <br/> **Phase 2 due** <br/> Phase 3 released <br/> [R7: Phase 3][recs] |
 | 03/10 - 03/14 | | | [Quiz 1 Review][reviews] | | **Quiz 1** |
-| 03/17 - 03/21 |                                                              |                                            |                          |                     | [R7: TBD][recs] |
+| 03/17 - 03/21 |                                                              |                                            |                          |                     | [R8: TBD][recs] |
 | 03/24 - 03/28 | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ |
-| 03/31 - 04/04 |                                                              |                                            |                          |                     | **Phase 3 due** <br/> Phase 4 released <br/> [R8: Phase 4][recs] |
-| 04/07 - 04/11 |                                                              |                                            |                          |                     |                       [R9: TBD][recs]                       |
-| 04/14 - 04/18 |  | |  | *CPW* | **Phase 4 due** <br/> Phase 5 released <br />*CPW*<br/> [R10: Phase 5][recs] |
+| 03/31 - 04/04 |                                                              |                                            |                          |                     | **Phase 3 due** <br/> Phase 4 released <br/> [R9: Phase 4][recs] |
+| 04/07 - 04/11 |                                                              |                                            |                          |                     |                       [R10: TBD][recs]                       |
+| 04/14 - 04/18 |  | |  | *CPW* | **Phase 4 due** <br/> Phase 5 released <br />*CPW*<br/> [R11: Phase 5][recs] |
 | 04/21 - 04/25 | _Patriots' Day Holiday_ | _Drop Date_ |  | | |
 | 04/28 - 05/02 | | | [Quiz 2 Review][reviews] | | **Quiz 2** |
 | 05/05 - 05/09 | | | | | |
