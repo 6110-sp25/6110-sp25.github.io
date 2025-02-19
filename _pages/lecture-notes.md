@@ -17,13 +17,16 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
    - *Cooper et al*., Ch. 3 Parsers, § 3.1-3.2, p.p. 83-95 (2nd ed.), p.p. 85-98 (3rd ed.).
 
 3. [Top-down Parsing][l03] ([6 slides/page][l03-6])
-   
+
    - *Cooper et al*., Ch. 3 Parsers, § 3.3 Top-Down-Parsing, p.p. 96-116 (2nd ed.), p.p. 99-118 (3rd ed.).
 
 4. [Intermediate Formats][l04] ([6 slides/page][l04-6])
     - *Cooper et al.*, Ch. 5 Intermediate Representations, p.p. 221-268 (2nd ed.), Ch. 4, p.p. 159-207 (3rd ed.).
     - *Cooper et al.*, Ch. 6 The Procedure Abstraction, § 6.3 Name Spaces, p.p. 276-297 (2nd ed.).
     - *Cooper et al.*, Ch. 5 Syntax Driven Translation, § 5.4 Modeling the Naming Environment, p.p. 227-239 (3rd ed.).
+5. [Semantic Analysis][l05] ([6 slides/page][l05-6])
+    - *Cooper et al*., Ch. 4 Context-Sensitive Analysis, § 4.2 Introduction to Type Systems, p.p. 164-181 (2nd ed.).
+    - *Cooper et al*., Ch. 5 Syntax Driven Translation, § 5.5 Type Information, p.p. 239-251 (3rd ed.).
 
 ### Optional content
 
@@ -39,6 +42,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [l03-6]: assets/documents/lectures/L03-TopDownParsing-6pages.pdf
 [l04]: assets/documents/lectures/L04-IntermediateFormats.pdf
 [l04-6]: assets/documents/lectures/L04-IntermediateFormats-6pages.pdf
+[l05]: assets/documents/lectures/L05-SemanticAnalysis.pdf
+[l05-6]: assets/documents/lectures/L05-SemanticAnalysis-6pages.pdf
 [lshift]: assets/documents/lectures/L-ShiftReduceParsing.pdf
 [lshift-6]: assets/documents/lectures/L-ShiftReduceParsing-6pages.pdf
 [cooper]: https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935028392606761
