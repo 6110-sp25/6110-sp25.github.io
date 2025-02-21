@@ -98,25 +98,25 @@ Your grade in this phase (5% total) is allocated as follows:
 The public test cases are available at the [`6110-sp25/public-tests` repository](https://github.com/6110-sp25/public-tests).
 You should also make sure that your phase 2 compiler also passes all phase 1 test cases.
 
-<!--## Submission-->
+## Submission
 
-<!--### Code-->
-<!---->
-<!--Please submit your phase 2 code on Gradescope via GitHub, following the steps below:-->
-<!---->
-<!--1. Push your code to your team GitHub repository (`6110-sp25/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase2-submission`.-->
-<!--2. Go to the [Phase 2 assignment](https://www.gradescope.com/courses/727449/assignments/4132356) on Gradescope, and select your GitHub repository and branch.-->
-<!--3. Add your team members to the submission on Gradescope.-->
-<!---->
-<!--{: .warning }-->
-<!--Make sure the `./build.sh` and `./run.sh` scripts are located at the **root** of your repository, otherwise the autograder will fail.-->
-<!---->
-<!--{: .note }-->
-<!--Please make sure that your compiler doesn't get caught in an infinite loop when running any of the tests.-->
+### Code
 
-<!--### Report-->
-<!---->
-<!--Please submit your report in the [Phase 2 Report assignment](https://www.gradescope.com/courses/727449/assignments/4146001) on Gradescope, and remember to add your team members to the submission.-->
+Please submit your phase 2 code on Gradescope via GitHub, following the steps below:
+
+1. Push your code to your team GitHub repository (`6110-sp25/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase2-submission`.
+2. Go to the [Phase 2 assignment](https://www.gradescope.com/courses/931853/assignments/5819180/) on Gradescope, and select your GitHub repository and branch.
+3. Add your team members to the submission on Gradescope.
+
+{: .warning }
+Make sure the `./build.sh` and `./run.sh` scripts are located at the **root** of your repository, otherwise the autograder will fail.
+
+{: .note }
+Please make sure that your compiler doesn't get caught in an infinite loop when running any of the tests.
+
+### Report
+
+Please submit your report in the [Phase 2 Report assignment](https://www.gradescope.com/courses/931853/assignments/5819193/) on Gradescope, and remember to add your team members to the submission.
 
 ## Implementation Suggestions
 
