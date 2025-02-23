@@ -12,7 +12,7 @@ nav_order: 20
 ## Calendar
 
 The lectures and recitations are one hour long and take place:
-- In **32-124** at 11 a.m. on Mondays, Wednesdays, and Fridays.
+- In **32-123** at 11 a.m. on Mondays, Wednesdays, and Fridays.
 - In **32-155** at 12 p.m. (noon) on Tuesdays and Thursdays. (While these are listed officially as "recitations," we treat them the same as lectures.)
 
 [bldg]: http://whereis.mit.edu/map-jpg?mapterms=32
