@@ -61,6 +61,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. 02/07 - [Project Overview/Phase 1][r01]
 2. 02/11 - [Hand-written Parser Demo](https://github.com/6110-sp25/recitation2/)
 3. 02/14 - [Parser Generator Demo](https://github.com/6110-sp25/recitation3)
+4. 02/14 - [IR Demo](https://github.com/6110-sp25/recitation4)
 
 [r00]: assets/documents/recitations/r0-course-information.pdf
 [r01]: assets/documents/recitations/r01-project-overview-phase1.pdf
