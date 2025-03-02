@@ -80,12 +80,31 @@ The public test cases for this phase have been added to the [`6110-sp25/public-t
 
 ## Report
 
-Your report for this phase should include the following parts. (The assignment on Gradescope already follows this outline.)
-1. An overview of your approach in this phase, including a high-level description of your IR. (Note that you will need to submit more documentation about this phase later, in the Phase 3 report.)
-2. A project status update, including the following information:
-  - __Status:__ Is your implementation complete? Are there tests you are failing or bugs you are aware of?
-  - __Team Dynamics:__ How did your group divide the work? What issues did you have working as a team, and how do you plan to resolve them going forward?
-  - __Questions / Concerns:__ Is there anything in your project that you want TAs to review or address? Are there problems or difficulties you want us to be aware of?
+Your report for this phase should follow the structure below.
+
+### 1. Implementation
+
+Provide a high-level description of your approach in this phase, including:
+
+- An overview of your intermediate representations (IRs) beyond the parse tree (e.g., abstract syntax trees, symbol tables, tree IRs, graph IRs, etc.).
+- Any nontrivial data structures you used and why they were necessary.
+- Your strategy for handling and reporting multiple errors for each Decaf program.
+
+### 2. Testing and Debugging
+
+Describe how you evaluated the correctness of your implementation:
+
+- Did you write any additional test cases? How did you ensure adequate coverage?
+- What methods or tools (e.g., assertions, visualizations, fuzzers, sanitizers) helped you debug?
+
+### 3. Reflection and Project Status
+
+Provide an honest evaluation of your progress and teamwork:
+
+- Is your implementation complete? Are there failing tests or known issues?
+- If you were to redo this phase, what would you do differently?
+- How did your team divide the work? Did you encounter any collaboration challenges, and how do you plan to resolve them?
+- Do you have anything specific you would like TAs to review or help with?
 
 ## Evaluation
 
