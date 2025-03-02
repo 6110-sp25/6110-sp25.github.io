@@ -23,7 +23,7 @@ The lectures and recitations are one hour long and take place:
 | 02/10 - 02/14 |  | [R2: Hand-Written Parser][recs] | [L4: IR][lecs] | [L4: IR][lecs] | [R3: Parser Generators][recs] |
 | 02/17 - 02/21 | _Presidents' Day Holiday_ | _Monday schedule_<br />[L5: Semantics][lecs] | **Team submission**<br />[L5: Semantics][lecs] | | **Phase 1 due** <br/> Phase 2 released <br/> [R4: Phase 2][recs] |
 | 02/24 - 02/28 | [L6: Codegen][lecs] | [L6: Codegen][lecs] | [L6: Codegen][lecs] |  | [R5: SSA][recs] |
-| 03/03 - 03/07 |  |  |  | [R6: x86][recs] | _Add date_ <br/> **Phase 2 due** <br/> Phase 3 released <br/> [R7: Phase 3][recs] |
+| 03/03 - 03/07 |  |  |  | [R6: Control Flow Graphs][recs] | _Add date_ <br/> **Phase 2 due** <br/> Phase 3 released <br/> [R7: Phase 3][recs] |
 | 03/10 - 03/14 | | | [Quiz 1 Review][reviews] | | **Quiz 1** |
 | 03/17 - 03/21 |                                                              |                                            |                          |                     | [R8: TBD][recs] |
 | 03/24 - 03/28 | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ |
