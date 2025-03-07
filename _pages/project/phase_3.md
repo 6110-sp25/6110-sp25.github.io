@@ -107,7 +107,7 @@ In this phase you will also write a design document that explains the technical 
 
 The TAs will review your design document as well as provide feedback on your code. Please make sure all code has been committed to your team's repository. It must include the following sections:
 
-1. **Design: (16 points) ** An overview of your design, an analysis of design alternatives you considered, and key design decisions for each of the parts below. This section should help us *understand* your code, and *convince* us that it is sufficiently general, and let us know anything that might not be reflected in your code. You must, at a minimum, answer the above questions for the following parts of your compiler:
+1. **Design (16 points): ** An overview of your design, an analysis of design alternatives you considered, and key design decisions for each of the parts below. This section should help us *understand* your code, and *convince* us that it is sufficiently general, and let us know anything that might not be reflected in your code. You must, at a minimum, answer the above questions for the following parts of your compiler:
    - Your chosen scanner/parser implementation (1 point)
    - Your high-level IR (1 point)
    - Your semantic checker (2 points)
@@ -115,7 +115,7 @@ The TAs will review your design document as well as provide feedback on your cod
    - Your assembly code generator (5 points)
    - Your testing infrastructure (2 point)
 2. **Extras (2 points):** A list of any clarifications, assumptions, or additions to the problem assigned. This include any interesting debugging techniques/logging, additional build scripts, or approved libraries used in designing the compiler. The project specifications are fairly broad and leave many of the decisions to you. This is an aspect of real software engineering. If you think major clarifications are necessary, consult the TA.
-3. **Difficulties (1 point)**: A list of known problems with your project, and as much as you know about the cause. If there are any Phase 2 tests that you were not passing before the Phase 2 deadline, but fixed for Phase 3, you should also include this information in the write up.
+3. **Difficulties (1 point):** A list of known problems with your project, and as much as you know about the cause. If there are any Phase 2 tests that you were not passing before the Phase 2 deadline, but fixed for Phase 3, you should also include this information in the write up.
 4. **Contribution Statement (1 point):** A brief description of how your group divided the work. This will not affect your grade; it will be used to alert the TAs to any possible problems.
 
 ## Evaluation
