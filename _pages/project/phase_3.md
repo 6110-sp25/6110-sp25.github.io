@@ -103,7 +103,7 @@ As usual, you can run your executable with `./<EXECUTABLE>` and print its return
 
 ## Design Document
 
-In this phase you will also write a design document that explains the technical details of how you have integrated Phases 1, 2, and 3. This will be a much more substantial document than the reports for previous phases. We expect it to be around 5 pages long. 
+In this phase you will also write a design document that explains the technical details of how you have integrated Phases 1, 2, and 3. This will be a much more substantial document than the reports for previous phases. You may write any length design document within reason as long as it addresses all the points below. 
 
 The TAs will review your design document as well as provide feedback on your code. Please make sure all code has been committed to your team's repository. It must include the following sections:
 
@@ -113,7 +113,7 @@ The TAs will review your design document as well as provide feedback on your cod
    - Your semantic checker (2 points)
    - Your CFG or low-level IR implementation (5 points)
    - Your assembly code generator (5 points)
-   - Your testing infrastructure (2 point)
+   - Your testing infrastructure (2 points)
 2. **Extras (2 points):** A list of any clarifications, assumptions, or additions to the problem assigned. This include any interesting debugging techniques/logging, additional build scripts, or approved libraries used in designing the compiler. The project specifications are fairly broad and leave many of the decisions to you. This is an aspect of real software engineering. If you think major clarifications are necessary, consult the TA.
 3. **Difficulties (1 point):** A list of known problems with your project, and as much as you know about the cause. If there are any Phase 2 tests that you were not passing before the Phase 2 deadline, but fixed for Phase 3, you should also include this information in the write up.
 4. **Contribution Statement (1 point):** A brief description of how your group divided the work. This will not affect your grade; it will be used to alert the TAs to any possible problems.
