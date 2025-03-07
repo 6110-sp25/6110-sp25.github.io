@@ -57,14 +57,22 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 ## Recitations
 
 {:style="counter-reset:step-counter -1"}
-0. 02/03 — [Course information][r00]
-1. 02/07 - [Project Overview/Phase 1][r01]
-2. 02/11 - [Hand-written Parser Demo](https://github.com/6110-sp25/recitation2/)
-3. 02/14 - [Parser Generator Demo](https://github.com/6110-sp25/recitation3)
-4. 02/14 - [IR Demo](https://github.com/6110-sp25/recitation4)
+1. Course Information ([Slides][r00])
+1. Phase 1 ([Slides][r01])
+1. Recursive Descent Parser ([Demo](https://github.com/6110-sp25/recitation2/))
+1. Parser Generator ([Slides][r03], [Demo](https://github.com/6110-sp25/recitation3))
+1. Phase 2 ([Slides][r04], [Demo](https://github.com/6110-sp25/recitation4))
+1. SSA ([Slides][r05])
+1. Control Flow Graphs ([Slides][r06], [Demo](https://github.com/6110-sp25/recitation6))
+1. Phase 3 ([Slides][r06])
 
 [r00]: assets/documents/recitations/r0-course-information.pdf
 [r01]: assets/documents/recitations/r01-project-overview-phase1.pdf
+[r03]: assets/documents/recitations/r03-parser-generator.pdf
+[r04]: assets/documents/recitations/r04-phase2.pdf
+[r05]: assets/documents/recitations/r05-ssa.pdf
+[r06]: assets/documents/recitations/r06-cfg.pdf
+[r07]: assets/documents/recitations/r07-x86-asm.pdf
 
 ## Re-lectures from 2024
 
