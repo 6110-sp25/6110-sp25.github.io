@@ -137,7 +137,7 @@ You should also make sure that your Phase 3 compiler also passes all of the lega
 Please submit your phase 3 code on Gradescope via GitHub, following the steps below:
 
 1. Push your code to your team GitHub repository (`6110-sp25/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase3-submission`.
-2. Go to the [Phase 3 assignment](https://www.gradescope.com/courses/727449/assignments/4199998) on Gradescope, and select your GitHub repository and branch.
+2. Go to the [Phase 3 assignment](https://www.gradescope.com/courses/931853/assignments/5902521/) on Gradescope, and select your GitHub repository and branch.
 3. Add your team members to the submission on Gradescope.
 
 Submitted repositories should have the following structure:
@@ -158,7 +158,7 @@ Please make sure that your compiler doesn't get caught in an infinite loop when 
 
 ### Design Document
 
-Please submit your design document as a PDF in the [Phase 3 Report assignment](https://www.gradescope.com/courses/727449/assignments/4207336) on Gradescope, and remember to add your team members to the submission.
+Please submit your design document as a PDF in the [Phase 3 Report assignment](https://www.gradescope.com/courses/931853/assignments/5902035/) on Gradescope, and remember to add your team members to the submission.
 In addition, as indicated by the previous section, please also add the design document to your team GitHub repository at `doc/phase3.pdf`.
 
 ## Appendix
