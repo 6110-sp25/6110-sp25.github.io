@@ -122,7 +122,7 @@ The TAs will review your design document as well as provide feedback on your cod
 
 This phase is worth 15% of the overall grade in this class. Your grade in this phase (15% total) is allocated as follows:
 - Your Decaf compiler: 12%, from autograded public and private test cases.
-  - The TAs reserve the result to perform regression testing for test cases in Phase 1 and 2
+  - The TAs reserve the right to perform regression testing for test cases in Phase 1 and 2
 
 - Your Project Design Document: 3%
 
