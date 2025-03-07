@@ -7,9 +7,9 @@ nav_order: 4
 In this phase, you will extend your compiler to generate correct x86-64 assembler code for all Decaf programs. By the end of code generation, you should have a fully working Decaf compiler. You'll be able to write, compile, and execute real programs on a real machine!
 
 {: .announcement }
-> There are two deliverables for this phase, both of which are due at **11:59 PM on Friday, April 5**.
-> 1. Your Decaf compiler
-> 2. A Project Design Document explaining the technical details of your implementation for phases 1, 2, and 3.
+> There are two deliverables for this phase:
+> 1. Your Decaf compiler, due **Friday, April 4 at 11:59pm**
+> 2. A Project Design Document explaining the technical details of your implementation for phases 1, 2, and 3, due **Saturday, April 5 at 11:59pm**
 >
 > Only one submission is needed for each team --- please use Gradescope's feature to add multiple people to a single submission.
 
