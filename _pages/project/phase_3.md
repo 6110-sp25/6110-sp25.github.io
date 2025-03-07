@@ -89,7 +89,7 @@ Your compiler should then write a x86-64 assembly listing to the output file spe
 
 Nothing should be written to standard error for a syntactically and semantically correct program (or to standard output, if an output file is specified) unless the `--debug` flag is present. If the `--debug` flag is present, your compiler should still run and produce the same resulting assembly listing. Any debugging output is left to your own discretion. All errors **must be written** to standard error.
 
-The public test cases for this phase have been added to the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests) on Github. Please read the comments in the test cases to see what we expect your compiler to do.
+The public test cases for this phase have been added to the [`6110-sp25/public-tests` repository](https://github.com/6110-sp25/public-tests) on Github. Please read the comments in the test cases to see what we expect your compiler to do.
 
 Internally, the autograder will assemble the assembly file produced by your compiler using the following command:
 
@@ -107,7 +107,7 @@ In this phase you will also write a design document that explains the technical 
 
 The TAs will review your design document as well as provide feedback on your code. Please make sure all code has been committed to your team's repository. It must include the following sections:
 
-1. **Design (16 points): ** An overview of your design, an analysis of design alternatives you considered, and key design decisions for each of the parts below. This section should help us *understand* your code, and *convince* us that it is sufficiently general, and let us know anything that might not be reflected in your code. You must, at a minimum, answer the above questions for the following parts of your compiler:
+1. **Design (16 points):** An overview of your design, an analysis of design alternatives you considered, and key design decisions for each of the parts below. This section should help us *understand* your code, and *convince* us that it is sufficiently general, and let us know anything that might not be reflected in your code. You must, at a minimum, answer the above questions for the following parts of your compiler:
    - Your chosen scanner/parser implementation (1 point)
    - Your high-level IR (1 point)
    - Your semantic checker (2 points)
@@ -126,8 +126,8 @@ This phase is worth 15% of the overall grade in this class. Your grade in this p
 
 - Your Project Design Document: 3%
 
-The public test cases are available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests).
-You should also make sure that your Phase 3 compiler also passes all of the legal phase 1 and 2 test cases. The private test cases for Phase 2 will be available at the [`6110-sp24/public-tests` repository](https://github.com/6110-sp24/public-tests) after the phase 2 submission deadline.
+The public test cases are available at the [`6110-sp25/public-tests` repository](https://github.com/6110-sp25/public-tests).
+You should also make sure that your Phase 3 compiler also passes all of the legal phase 1 and 2 test cases. The private test cases for Phase 2 will be available at the [`6110-sp25/public-tests` repository](https://github.com/6110-sp25/public-tests) after the phase 2 submission deadline.
 
 
 ## Submission
@@ -136,7 +136,7 @@ You should also make sure that your Phase 3 compiler also passes all of the lega
 
 Please submit your phase 3 code on Gradescope via GitHub, following the steps below:
 
-1. Push your code to your team GitHub repository (`6110-sp24/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase3-submission`.
+1. Push your code to your team GitHub repository (`6110-sp25/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase3-submission`.
 2. Go to the [Phase 3 assignment](https://www.gradescope.com/courses/727449/assignments/4199998) on Gradescope, and select your GitHub repository and branch.
 3. Add your team members to the submission on Gradescope.
 
