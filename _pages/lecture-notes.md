@@ -64,7 +64,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. Phase 2 ([Slides][r04], [Demo](https://github.com/6110-sp25/recitation4))
 1. SSA ([Slides][r05])
 1. Control Flow Graphs ([Slides][r06], [Demo](https://github.com/6110-sp25/recitation6))
-1. Phase 3 ([Slides][r06])
+1. x86 Assembly ([Slides][r07])
 
 [r00]: assets/documents/recitations/r0-course-information.pdf
 [r01]: assets/documents/recitations/r01-project-overview-phase1.pdf
