@@ -1,7 +1,7 @@
 ---
 title: Phase 3
 parent: Compiler Project
-nav_order: 4
+nav_order: 40
 ---
 
 In this phase, you will extend your compiler to generate correct x86-64 assembler code for all Decaf programs. By the end of code generation, you should have a fully working Decaf compiler. You'll be able to write, compile, and execute real programs on a real machine!

@@ -1,7 +1,7 @@
 ---
 title: Phase 2
 parent: Compiler Project
-nav_order: 3
+nav_order: 30
 ---
 
 In this phase, you will extend your compiler to find, report, and recover from semantic errors in Decaf programs.

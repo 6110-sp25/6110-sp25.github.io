@@ -1,0 +1,234 @@
+<svg xmlns:v="http://vecta.io" width="850" height="370" viewBox="0 0 850 370" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle;}svg text{paint-order:stroke;white-space:pre;}svg .Text\.cls{stroke:none;}]]>
+    </style>
+    <defs>
+        <style>@import url("https://vecta.io/fonts/lato.css");@import url("https://vecta.io/fonts/roboto.css");</style>
+        <g id="thin.end">
+            <path d="M 0 0 L 3 10 L -3 10 Z" stroke="none"/>
+        </g>
+    </defs>
+    <g transform="translate(289.5 4.5)">
+        <rect fill="#eeffcc" height="50" rx="15" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect width="150" height="50" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="75" y="21.22">Intermediate </tspan>
+                <tspan x="75" y="38.02">Representation</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(289.5 94.5)">
+        <rect fill="#ccffff" height="50" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect width="150" height="50" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="75" y="29.62">Non-SSA CFG</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(289.5 279.5)">
+        <rect fill="#bfff00" height="50" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect width="150" height="50" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="75" y="29.62">SSA CFG</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(4.5 264.5)">
+        <g>
+            <g transform="translate(10 0)">
+                <path d="M 0 0 L 190 0 L 190 73.8483 C 95 45.7061 95 102.7888 0 68.8585 Z" fill="#cceeff" stroke-width="1"/>
+            </g>
+            <g transform="translate(5 5)">
+                <path d="M 0 0 L 190 0 L 190 73.8483 C 95 45.7061 95 102.7888 0 68.8585 Z" fill="#cceeff" stroke-width="1"/>
+                <g class="Text.cls">
+                    <rect width="190" height="80" x="0" y="0" fill="none" stroke="none"/>
+                    <text fill="#000000" fill-opacity="1" font-family="Lato">
+                        <tspan x="95" y="36.22">SSA-Based Dataflow </tspan>
+                        <tspan x="95" y="53.02">Optimizations</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(4.5 84.5)">
+        <g>
+            <g transform="translate(10 0)">
+                <path d="M 0 0 L 190 0 L 190 73.8483 C 95 45.7061 95 102.7888 0 68.8585 Z" fill="#cceeff" stroke-width="1"/>
+            </g>
+            <g transform="translate(5 5)">
+                <path d="M 0 0 L 190 0 L 190 73.8483 C 95 45.7061 95 102.7888 0 68.8585 Z" fill="#cceeff" stroke-width="1"/>
+                <g class="Text.cls">
+                    <rect width="190" height="80" x="0" y="0" fill="none" stroke="none"/>
+                    <text fill="#000000" fill-opacity="1" font-family="Lato">
+                        <tspan x="95" y="36.22">Non SSA-Based Dataflow </tspan>
+                        <tspan x="95" y="53.02">Optimizations</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(364.5 59.5)">
+        <path d="M 0.00001 0.00001 L 0 20.5" fill="none" stroke="#000"/>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(180 0 30)" x="0" xlink:href="#thin.end" y="30"/>
+    </g>
+    <g transform="translate(319.5 159.5)">
+        <path d="M 0.00001 0.00001 L 0 100.5" fill="none" stroke="#000"/>
+        <g transform="translate(0 40)" class="Text.cls">
+            <rect width="50" height="30" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="25" y="19.62">SSA</tspan>
+            </text>
+        </g>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(180 0 110)" x="0" xlink:href="#thin.end" y="110"/>
+    </g>
+    <g transform="translate(404.5 159.5)">
+        <path d="M 0.00001 105 L 0 52.5 L 0 52.5 L 0 9.5" fill="none" stroke="#000"/>
+        <g transform="translate(0 37.5)" class="Text.cls">
+            <rect width="50" height="30" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="25" y="19.62">de-SSA</tspan>
+            </text>
+        </g>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(360 0 0)" x="0" xlink:href="#thin.end" y="0"/>
+    </g>
+    <g transform="translate(114.5 159.5)">
+        <path d="M 40 20 Q 10.2918 20 2.648 8.9677" fill="none" stroke="#000"/>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(342.5887 0 0)" x="0" xlink:href="#thin.end" y="0"/>
+    </g>
+    <g transform="translate(109.5 59.5)">
+        <path d="M 0.00001 25 Q 0 0 60 0 Q 176.3271 0 192.4173 25.9877" fill="none" stroke="#000"/>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(163.1822 195 35)" x="195" xlink:href="#thin.end" y="35"/>
+    </g>
+    <g transform="translate(154.5 144.5)">
+        <path d="M 155 0.00001 Q 155 35 0 35" fill="none" stroke="#000"/>
+        <g class="Text.cls">
+            <rect width="155" height="35" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="77.5" y="22.12">Phase 4</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(104.5 239.5)">
+        <path d="M 0.00001 25 Q 0 0 60 0 Q 176.3271 0 192.4173 25.9877" fill="none" stroke="#000"/>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(163.1822 195 35)" x="195" xlink:href="#thin.end" y="35"/>
+    </g>
+    <g transform="translate(109.5 344.5)">
+        <path d="M 40 20 Q 10.2918 20 2.648 8.9677" fill="none" stroke="#000"/>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(342.5887 0 0)" x="0" xlink:href="#thin.end" y="0"/>
+    </g>
+    <g transform="translate(149.5 329.5)">
+        <path d="M 155 0.00001 Q 155 35 0 35" fill="none" stroke="#000"/>
+        <g class="Text.cls">
+            <rect width="155" height="35" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="77.5" y="22.12">Phase 4</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(364.5 64.5)">
+        <rect fill="none" height="20" stroke="none" width="80" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect width="80" height="20" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="40" y="14.62">Linearizer</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(694.5 174.5)">
+        <rect fill="#ccffff" height="50" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect width="150" height="50" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="75" y="29.62">x86 Assembly</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(489.5 154.5)">
+        <path d="M 75 0 L 0 40 L 75 80 L 150 40 Z" fill="#e0e0e0" stroke="#c1c1c1"/>
+        <g transform="translate(37.5 20)" class="Text.cls">
+            <rect width="75" height="40" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#a2a2a2" fill-opacity="1" font-family="Lato">
+                <tspan x="37.5" y="16.22">Register </tspan>
+                <tspan x="37.5" y="33.02">Allocation</tspan>
+            </text>
+        </g>
+    </g>
+    <path d="M 0.00001 0.00001 L 72.5 0 L 72.5 0 L 140 0" fill="none" stroke="#000" transform="translate(439.5 119.5)"/>
+    <g transform="translate(639.5 194.5)">
+        <path d="M 0.00001 0.00001 L 45.5 0" fill="none" stroke="#e0e0e0"/>
+        <use class="EndArrow.cls" fill="#e0e0e0" transform="scale(1) rotate(90 55 0)" x="55" xlink:href="#thin.end" y="0"/>
+    </g>
+    <g transform="translate(579.5 119.5)">
+        <path d="M 0.00001 0.00001 L 200.0001 0 L 200 45.5" fill="none" stroke="#000"/>
+        <use class="EndArrow.cls" fill="#000" transform="scale(1) rotate(180.0001 200 55)" x="200" xlink:href="#thin.end" y="55"/>
+    </g>
+    <g transform="translate(579.5001 134.5)">
+        <rect fill="none" height="20" stroke="none" width="214.9999" x="0" y="0"/>
+        <g transform="translate(-59.7222 0)" class="Text.cls">
+            <rect width="214.9999" height="20" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#a2a2a2" fill-opacity="1" font-family="Lato">
+                <tspan x="107.5" y="6.22">Register Allocator </tspan>
+                <tspan x="107.5" y="23.02">(Phase 5)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(459.5 99.5)">
+        <rect fill="none" height="15" stroke="none" width="115" x="0" y="0"/>
+        <g transform="translate(-10 0)" class="Text.cls">
+            <rect width="115" height="15" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-family="Lato">
+                <tspan x="57.5" y="12.12">Code Generator</tspan>
+            </text>
+        </g>
+    </g>
+    <path d="M 125 0.00001 L 0 0" fill="none" stroke="#e0e0e0" transform="translate(439.5 304.5)"/>
+    <g transform="translate(459.5 309.5)">
+        <rect fill="none" height="30" stroke="none" width="125" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect width="196.4283" height="30" x="0" y="0" fill="none" stroke="none"/>
+            <text fill="#a2a2a2" fill-opacity="1" font-family="Lato">
+                <tspan x="98.2142" y="11.22">SSA-Based Register Allocator </tspan>
+                <tspan x="98.2142" y="28.02">(Phase 5)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(694.5 264.5)" fill="#e0e0e0" stroke="#c1c1c1">
+        <g>
+            <g transform="translate(10 0)">
+                <path d="M 0 0 L 140 0 L 140 73.8483 C 70 45.7061 70 102.7888 0 68.8585 Z" fill="#e0e0e0" stroke-width="1" fill-opacity="1" stroke="#c1c1c1" stroke-opacity="1"/>
+            </g>
+            <g transform="translate(5 5)">
+                <path d="M 0 0 L 140 0 L 140 73.8483 C 70 45.7061 70 102.7888 0 68.8585 Z" fill="#e0e0e0" stroke-width="1" fill-opacity="1" stroke="#c1c1c1" stroke-opacity="1"/>
+            </g>
+            <g transform="translate(0 10)">
+                <path d="M 0 0 L 140 0 L 140 73.8483 C 70 45.7061 70 102.7888 0 68.8585 Z" fill="#e0e0e0" stroke-width="1" fill-opacity="1" stroke="#c1c1c1" stroke-opacity="1"/>
+                <g class="Text.cls">
+                    <rect width="140" height="80" x="0" y="0" fill="none" stroke="none"/>
+                    <text fill="#a2a2a2" fill-opacity="1" font-family="Lato">
+                        <tspan x="70" y="36.22">Peephole/Assembly </tspan>
+                        <tspan x="70" y="53.02">Optimizations</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(739.5 224.5)">
+        <path d="M 0.0001 0.00001 L 0 30.5" fill="none" stroke="#e0e0e0"/>
+        <use class="EndArrow.cls" fill="#e0e0e0" transform="scale(1) rotate(180.0001 0 40)" x="0" xlink:href="#thin.end" y="40"/>
+    </g>
+    <g transform="translate(799.5 224.5)">
+        <path d="M 0.0001 40 L 0 9.5" fill="none" stroke="#e0e0e0"/>
+        <use class="EndArrow.cls" fill="#e0e0e0" transform="scale(1) rotate(359.9999 0 0)" x="0" xlink:href="#thin.end" y="0"/>
+    </g>
+    <g transform="translate(564.5 119.5)">
+        <path d="M 0.0001 0.00001 L 0 25.5" fill="none" stroke="#e0e0e0"/>
+        <use class="EndArrow.cls" fill="#e0e0e0" transform="scale(1) rotate(180.0002 0 35)" x="0" xlink:href="#thin.end" y="35"/>
+    </g>
+    <g transform="translate(564.5 239.5)">
+        <path d="M 0.0001 65 L 0 9.5" fill="none" stroke="#e0e0e0"/>
+        <use class="EndArrow.cls" fill="#e0e0e0" transform="scale(1) rotate(359.9999 0 0)" x="0" xlink:href="#thin.end" y="0"/>
+    </g>
+</svg>

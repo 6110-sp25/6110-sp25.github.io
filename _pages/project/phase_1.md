@@ -1,7 +1,7 @@
 ---
 title: Phase 1
 parent: Compiler Project
-nav_order: 2
+nav_order: 20
 ---
 
 This phase consists of two segments: lexical analysis (scanning, aka lexing) and syntactic analysis (parsing).
