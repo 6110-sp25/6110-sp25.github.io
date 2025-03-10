@@ -6,7 +6,7 @@ nav_order: 10
 
 The Decaf Compiler project is one of the few MIT software engineering experiences that will start from a specification and end with a large software product. There are many design decisions that you must make along the way, and there are an infinite number of ways to go about designing your compiler.
 
-However, we also understand if teams the number of decisions that must be made overwhelming. The TAs have compiled the following resources, divided up by phase, that will hopefully help you make these design decisions.
+However, we also understand if teams find the number of decisions that must be made overwhelming. The TAs have compiled the following resources, divided up by phase, that will hopefully help you make these design decisions.
 
 ## Phase 3
 
