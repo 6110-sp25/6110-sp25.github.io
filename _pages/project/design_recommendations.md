@@ -103,3 +103,24 @@ In Phase 4, you will implement several dataflow optimizations. We will provide m
 {% include svg/phase5.svg %}
 
 In Phase 5, you will implement register allocation, as well as other optimizations (such as peephole optimizations) of your choosing. We will provide more information here in the future.
+
+## Just show me the code: IR designs in the wild
+
+A great way to learn compiler design is to see how experienced compiler devs do it. Below we have curated a list of open source compilers that could serve as valuable references to your design. Keep in mind, however, that many of these compilers have greater scopes and deal with more complex languages. **Don't copy their design as is and use your best judgement to avoid overengineering.**
+
+* **LLVM** is a compiler backend framework used by Clang (C/C++/Fortan), Rust, Swift, and many more languages and a gold mine of SSA-based optimizations.
+  * Skim [the Language Reference Manual](https://llvm.org/docs/LangRef.html) to get a sense of SSA IR.
+  * If you want to learn how a particular optimization is implemented in LLVM, start by reading [the Programmer's Manual](https://llvm.org/docs/ProgrammersManual.html). You may also ask LLMs to help you navigate the codebase.
+* **Cranelift** is a Rust-based compiler backend used in many WebAssembly implementations. If your team is using Rust, Cranelift's codebase is a valuable reference of how to represent your IR with Rust constructs.
+  * Read [the IR Reference](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/docs/ir.md).
+  * For more context, Cranelift uses a variation of SSA called **basic blocks with parameters** that's equivalent to phi nodes. It also uses a **data flow graph** to explicitly track dependencies between instructions.
+  * Cranelift's codebase can be intimidating. We recommend starting with 
+    [`InstructionData`](https://docs.rs/cranelift-codegen/latest/cranelift_codegen/ir/instructions/enum.InstructionData.html), [`Layout`](https://docs.rs/cranelift-codegen/latest/cranelift_codegen/ir/layout/struct.Layout.html), and [`DataFlowGraph`](https://docs.rs/cranelift-codegen/latest/cranelift_codegen/ir/dfg/struct.DataFlowGraph.html).
+* **The Go compiler** is written in Go and also uses an SSA-based IR. Notably, it implements a **linear scan register allocator** directly over SSA. If your team is considering a similar approach, Go's register allocator may be a good read.
+  * Red Hat has a [blog post](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation#conclusion) that gives a high-level overview of Go's register allocator.
+  * The code can be found [here](https://github.com/golang/go/blob/master/src/cmd/compile/internal/ssa/regalloc.go), roughly 3000 lines including extensive comments, and should be understandable with effort.
+* **libFirm** is a graph based SSA compiler backend originally developed by Sebastian Hack and contains the reference implementation of his **graph coloring register allocation allocator directly over SSA.** As many of you will learn later in the course the hard way, direct register allocation over SSA is deep rabbit hole and his paper doesn't give out enough details. This is when the libFirm code comes in handy.
+  * Start by reading [`bespill.c`](https://github.com/libfirm/libfirm/blob/master/ir/be/bespill.c) and [`bespillbelady.c`](https://github.com/libfirm/libfirm/blob/master/ir/be/bespillbelady.c).
+* [**QBE**](https://c9x.me/compile/) is a compiler backend in C that aims to "provide 70% of the performance of industrial compilers with 10% of the code." It implements many of the key optimizations and the author deliberately keeps the codebase at hobby project scale so it's more understandable and hackable. If you find the code of all compilers above intimidating, try this!
+
+Finally, we want to stress that while these open source compilers can be a valuable source of inspiration, you should **NOT** copy code from them directly or call them as libraries for your compiler, as it will trivialize the project and is forbidden per course policy.
