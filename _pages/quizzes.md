@@ -11,7 +11,7 @@ Quizzes are __open-book__: you may use a laptop to access anything on or directl
 
 Quiz 1 will be held during class time on __Friday, March 14__ at our usual Friday classroom (32-123).
 The quiz covers material up to the Code Generation lectures. This corresponds to:
-- Lecture slide decks 1--6 on [Lecture Slides][lecture-notes].
+- Lecture slide decks 1--7 on [Lecture Slides][lecture-notes].
 - Re-lectures 1--3 on [Panopto](https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d1b52dac-7f75-4148-ae95-b27f000ebb7e%22) and [Lecture Slides][lecture-notes].
 - Miniquizzes 1--4 on [Miniquizzes][miniquizzes].
 
