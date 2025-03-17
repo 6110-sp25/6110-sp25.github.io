@@ -25,7 +25,7 @@ The lectures and recitations are one hour long and take place:
 | 02/24 - 02/28 | [L6: Codegen][lecs] | [L6: Codegen][lecs] | [L6: Codegen][lecs] |  | [R5: SSA][recs] |
 | 03/03 - 03/07 |  |  |  | [R6: Control Flow Graphs][recs] | _Add date_ <br/> **Phase 2 due** <br/> Phase 3 released <br/> [R7: Phase 3][recs] |
 | 03/10 - 03/14 | | | [Quiz 1 Review][reviews] | | **Quiz 1** |
-| 03/17 - 03/21 |                                                              |                                            |                          |                     | [R8: TBD][recs] |
+| 03/17 - 03/21 |                                                              | [L7: Optimization][lecs] | [L8: Dataflow][lecs] | [L8: Dataflow][lecs] | |
 | 03/24 - 03/28 | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ |
 | 03/31 - 04/04 |                                                              |                                            |                          |                     | **Phase 3 due** <br/> Phase 4 released <br/> [R9: Phase 4][recs] |
 | 04/07 - 04/11 |                                                              |                                            |                          |                     |                       [R10: TBD][recs]                       |
