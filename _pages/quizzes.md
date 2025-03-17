@@ -26,6 +26,7 @@ We will have a quiz review session on __Wednesday, March 12__ (time and room num
 > - While we are giving you past quizzes back to 2011, we strongly recommend just studying the more recent ones.
 > - In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
 
+- Spring 2025: [Quiz 1](/assets/documents/quizzes/20225sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2025sp-exam1-key.pdf)) 
 - Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf)) 
 - Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf)) 
 - Spring 2022: [Quiz 1](/assets/documents/quizzes/2022sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam1-key.pdf)) 
