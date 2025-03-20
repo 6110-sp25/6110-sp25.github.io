@@ -11,6 +11,7 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 1. [Miniquiz #2 (due Feb 20)](https://www.gradescope.com/courses/931853/assignments/5788853) — Parsing, Constraint Propagation ([Blank][m02], [Solution][m02-sol])
 1. [Miniquiz #3 (due Feb 27)](https://www.gradescope.com/courses/931853/assignments/5713155) — IR and Semantics ([Blank][m03], [Solution][m03-sol])
 1. [Miniquiz #4 (due Mar 6)](https://www.gradescope.com/courses/931853/assignments/5788853) — Code Generation ([Blank][m04], [Solution][m04-sol])
+1. [Miniquiz #5 (due Apr 6)](https://www.gradescope.com/courses/931853/assignments/5963277) — Program Analysis ([Blank][m05])
 
 [m01]: assets/documents/miniquizzes/miniquiz-1.pdf
 [m01-sol]: assets/documents/miniquizzes/miniquiz-1-sol.pdf
@@ -20,3 +21,4 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 [m03-sol]: assets/documents/miniquizzes/miniquiz-3-sol.pdf
 [m04]: assets/documents/miniquizzes/miniquiz-4.pdf
 [m04-sol]: assets/documents/miniquizzes/miniquiz-4-sol.pdf
+[m05]: assets/documents/miniquizzes/miniquiz-5.pdf
