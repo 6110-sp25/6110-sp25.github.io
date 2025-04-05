@@ -96,7 +96,26 @@ Some additional resources you may want to consult:
 
 {% include svg/phase4.svg %}
 
-In Phase 4, you will implement several dataflow optimizations. We will provide more information here in the future.
+In Phase 4, you will implement several dataflow optimizations. 
+
+### Global Copy Propagation
+
+Copy propagation aims to reduce variable copies, and more importantly, **uncover opportunities for other optimizations** (for example, `x = a + b; c = b; y = a + c` would become `x = a + b; c = b; y = a + b` which enables common subexpression elimination).
+
+* If you are using a non-SSA IR, refer to Martin's slides, §12.5 of the Whale book, and §10.7 of the Dragon book. Basically, you can only propagate a copy `x = y` if `y` **cannot have been modified between the copy and the use of `x`.**
+* If you are using a SSA IR, the legality check above is trivially true thanks to the single-assignment property. There are, however, a few extra things you need to be careful about:
+  * **Phi nodes with identical arguments are copies in disguise.** After some copies have been propagated, you may see phi nodes where all arguments are the same, such as `x_2 = phi(x_1, x_1, x_1)`. That's a new copy! Your pass should ideally move on and replace all uses of `x_2` with `x_1`.
+  * **The lost copy problem.** Copy propagation creates extra complication when converting out of SSA. See [these slides](https://www.inf.ed.ac.uk/teaching/courses/copt/lecture-4-from-ssa.pdf) for an example of the problem. TL,DR: watch out for **critical edges** (edges A->B where A has mulitple successors and B has multiple predecessors), and eliminate them by inserting empty blocks (replace A->B with A->C->B where C is an empty block). **You must be aware of this problem or you risk banging your head against the wall for days.**
+  * Your algorithm may first find a copy `x = y` and replace all uses of `x` with `y`, but that requires a full CFG traversal per copy! Alternatively, you can maintain a map `orig` initialized to `orig[x] = x`. Then, on seeing `x = y`, update `orig[x] = orig[y]` and replace all use of `x` with `orig[x]` as you go. This way, one traversal propagates many copies and it handles transitivity quite well. We recommend traversing the blocks in **dominator tree pre-order,** as it ensures all uses of a variable `x` is visited after its definition (where `orig[x]` might be updated).
+* You may find that one full CFG traversal may not suffice for propagating all copies however your try --- that's totally fine. In this case, just do multiple traversals until the last traversal did not introduce any changes. 
+* Copy propagation can leave many dead copies behind. There's no need to clean them up as part of the copy propagation pass --- leave it to dead code elimination!
+
+### Global Common Subexpression Elimination
+
+* If you are using a non-SSA IR, refer to Martin's slides, §8.3 and §13.1 of the Whale book, §10.6 and §10.7 in the Dragon book, and §17.2 in the Tiger book.
+* SSA again makes things simplier here because we don't have to worry about variable reassignments making an expression unavailable. 
+* In this pass, you will need a map that is keyed on expressions. Assuming a hash map, this means you will need to define hash and equality functions for an expression tree. Isn't it tedious? While this is the proper way to go, a shortcut is to write a function that maps an expression to **a stringified canonical representation,** and make you map keyed on these strings instead. This remains correct as long as you do it carefully.
+* You may be tempted to write your pass in a way that handles commutativity and associativity, or even some algebraic identities. **Resist this high IQ move for a moment and think twice about the cost-benefit tradeoff before you go down this rabbit hole.** Determine whether two expressions are equivalent is hard (see [Word problem](https://en.wikipedia.org/wiki/Word_problem_(mathematics))). Doing so efficiently (e.g., by mapping equivalent expressions to the same hash or canonical expression) is even harder. The reality is that many eliminatable common expressions are written the same verbatim in the source code, so even a naive approach can work quite well.
 
 ## Phase 5
 
