@@ -56,7 +56,7 @@ You will want to think carefully about the order in which optimizations are perf
 
 All optimizations (except inline expansion of calls) should be done at the level of a single method. Be careful that your optimizations do not introduce bugs in the generated code or break any previously-implemented phase of your compiler. Needless to say, it would be foolish not to do regression testing using your existing test cases. __Do not underestimate the difficulty of debugging this phase__.
 
-As in phase 3, your generated code must include instructions to perform the runtime checks listed in the language specification. It is desirable to optimize these checks whenever possible, e.g. using CSE to eliminate array bounds tests. Note that the optimized program must report a runtime error for exactly those program inputs for which the corresponding unoptimized program would report a runtime error (and the runtime error message must be the same in both cases). However, we allow the optimized program to report a runtime error earlier than it might have been reported in the unoptimized program.
+As in phase 3, your generated code must include instructions to perform the runtime checks listed in the language specification. Note that the optimized program must report a runtime error for exactly those program inputs for which the corresponding unoptimized program would report a runtime error (and the runtime error message must be the same in both cases). However, we allow the optimized program to report a runtime error earlier than it might have been reported in the unoptimized program.
 
 ## Specifications
 
