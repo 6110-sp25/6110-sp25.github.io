@@ -33,6 +33,10 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
     - _Cooper et al_., Ch. 7 Code shape, p.p. 331-404 (2nd ed.), p.p. 327-378 (3rd ed.).
 1. [Program Analysis and Optimization][l07] ([6 slides/page][l07-6])
 1. [Dataflow Analysis][l08] ([6 slides/page][l08-6])
+1. [Loop Optimizations][l09] ([6 slides/page][l09-6])
+1. [Register Allocation][l10] ([6 slides/page][l10-6])
+1. [Parallelization][l11] ([6 slides/page][l11-6])
+1. [Foundations of Dataflow Analysis][l12] ([6 slides/page][l12-6])
 
 ### Optional content
 
@@ -56,6 +60,15 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [l07-6]: assets/documents/lectures/L07-ProgramAnalysisOptimization-6pages.pdf
 [l08]: assets/documents/lectures/L08-DataflowAnalysis.pdf
 [l08-6]: assets/documents/lectures/L08-DataflowAnalysis-6pages.pdf
+[l09]: assets/documents/lectures/L09-LoopOptimizations.pdf
+[l09-6]: assets/documents/lectures/L09-LoopOptimizations-6pages.pdf
+[l10]: assets/documents/lectures/L10-RegisterAllocation.pdf
+[l10-6]: assets/documents/lectures/L10-RegisterAllocation-6pages.pdf
+[l11]: assets/documents/lectures/L11-Parallelization.pdf
+[l11-6]: assets/documents/lectures/L11-Parallelization-6pages.pdf
+[l12]: assets/documents/lectures/L12-FoundationsOfDataflowAnalysis.pdf
+[l12-6]: assets/documents/lectures/L12-FoundationsOfDataflowAnalysis-6pages.pdf
+
 [lshift]: assets/documents/lectures/L-ShiftReduceParsing.pdf
 [lshift-6]: assets/documents/lectures/L-ShiftReduceParsing-6pages.pdf
 [cooper]: https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935028392606761
