@@ -11,7 +11,7 @@ In this final open-ended phase, your goal is to reduce the execution time of you
 > 1. The final version of your Decaf compiler, which must include a working register allocator.
 > 2. A [Project Design Document](#design-document) describing all components of your compiler.
 >
-> See the [Evaluation section](#evaluation) for details on grading. Note that you there are two schemes depending on whether you are using Grading Option A or Grading Option B.
+> See the Evaluation Section below for details on grading. Note that you there are two schemes depending on whether you are using Grading Option A or Grading Option B.
 >
 > Only one submission is needed for each team --- please use Gradescope's feature to add multiple people to a single submission.
 
