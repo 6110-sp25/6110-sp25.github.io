@@ -106,7 +106,7 @@ Your compiler should then write a x86-64 assembly listing to standard output, or
 In this phase you will also write a design document that explains the technical details of your overall compiler implementation, **including work done in previous phases**. You *may* reuse the relevant sections from your previous design documents.
 
 1. **Design (12 pts):** An overview of your design, an analysis of design alternatives you considered, and key design decisions. This section should help us understand your code, convince us that it is sufficiently general, and let us know anything that might not be reflected in your code. 
-   - **(10 pts)** In addition to summaries of various design aspects from previous phases, you must also include the following information relevant to Phase 5:
+   - **(10 pts)** You must include the following information relevant to Phase 5:
      1. A detailed discussion of your `-O all` option, including which optimizations are performed, which order they are performed in, how many times they are performed, and how you arrived at this choice.
      2. Details of each optimization you implemented, including:
         - a brief explanation of how your optimization worked (this should convince your reader that the optimization was beneficial, general, and correct)
@@ -116,8 +116,6 @@ In this phase you will also write a design document that explains the technical 
 2. **Extras (1 pt):** A list of any clarifications, assumptions, or additions to the problem assigned. This includes any interesting debugging techniques/logging, additional build scripts, or approved libraries used in designing the compiler.
 3. **Difficulties (1pt):** A list of known problems with your project, and as much as you know about the cause. If there are any test cases that you failed from previous phases that you fixed in this phase, you should also include this information in the write up.
 4. **Contribution (1pt):** A brief description of how your group divided the work. This will not affect your grade; it will be used to alert the TAs to any possible problems.
-
-In addition, if you used LLMs when working on the project, you should also describe how you used them and provide us with chat logs (if possible) in your design document.
 
 ## Evaluation (Grading Option A)
 
@@ -135,7 +133,6 @@ Your final submission at the end of this phase is worth 40% of the overall grade
 Your final submission at the end of this phase is worth 75% of the overall grade in this class, divided as follows:
 - **25%:** Design Document, which meet the design document requirements of each of the phases:
   - **(1.5%)** - Your parser and scanner implementation (See Phase 1 page)
-
   - **(2.5%)** - Your semantic checker and IR implementation (See Phase 2 page)
   - **(7.5%)** - Your code generator (See Phase 3 page)
   - **(5%)** - Your dataflow optimizations (See Phase 4 page)
