@@ -1,7 +1,7 @@
 ---
 title: Phase 5
 parent: Compiler Project
-nav_order: 10
+nav_order: 50
 ---
 
 In this final open-ended phase, your goal is to reduce the execution time of your generated code while maintaining correct semantics.
@@ -52,9 +52,9 @@ While the autograder will return some benchmark statistics (mean, median, standa
 
 ### Phase 5 Autograder Information
 
-The phase 5 autograder works a little differently from the previous phases. In previous phases, we were only concerned with correctness, not the speed of the code.
+There are **two** autograders. The first autograder, labeled "Phase 5 (Correctness)", tests the correctness of your compiler against the Phase 3 and Phase 4 test cases to ensure your compiler did not regress. The second autograder, labeled "Phase 5 (Derby)", is how you submit your code to the derby server, and is also where you submit your final code.
 
-However, for the Derby programs, we do care about the performance, so we need to provide you with a clean environment that is free from noise to benchmark the code your compiler generates. For Phase 5, when you submit your code on Gradescope, the autograder will automatically submit your code to a separate, dedicated server, where submissions are executed in a round-robin fashion, one at a time. We expect the variations in performance to be less than 5%.
+The Derby autograder works a little differently from the previous phases. In previous phases, we were only concerned with correctness, not the speed of the code. However, for the Derby programs, we do care about the performance, so we need to provide you with a clean environment that is free from noise to benchmark the code your compiler generates. For Phase 5, when you submit your code on Gradescope, the autograder will automatically submit your code to a separate, dedicated server, where submissions are executed in a round-robin fashion, one at a time. We expect the variations in performance to be less than 5%.
 
 If your team submits too many submissions in a short period of time, **your team's submissions may be rate-limited** or run at a lower-priority than other teams.
 
@@ -165,7 +165,7 @@ Your performance score (out of 10) will be calculated from your "Speedup" column
 
 ### Design Document
 
-Please submit your design document as a PDF in the [Phase 5 Report assignment](https://www.gradescope.com/courses/727449/assignments/4381734) on Gradescope, and remember to add your team members to the submission.
+Please submit your design document as a PDF in the [Phase 5 Report assignment](https://www.gradescope.com/courses/931853/assignments/6044007) on Gradescope, and remember to add your team members to the submission.
 
 {: .note }
 Please also include both the design document _and_ your sample test case under the `doc` subdirectory in your team GitHub repository.
@@ -175,7 +175,7 @@ Please also include both the design document _and_ your sample test case under t
 Please submit your phase 5 code on Gradescope via GitHub, following the steps below:
 
 1. Push your code to your team GitHub repository (`6110-sp24/<TEAM NAME>`). We suggest making a separate branch for the submission, say, `phase5-submission`.
-2. Go to the [Phase 5 assignment](https://www.gradescope.com/courses/727449/assignments/4380508) on Gradescope, and select your GitHub repository and branch.
+2. Go to the [Phase 5 Derby Assignment](https://www.gradescope.com/courses/931853/assignments/5981687) on Gradescope, and select your GitHub repository and branch.
 3. Add your team members to the submission on Gradescope.
 
 Submitted repositories should have the following structure:
