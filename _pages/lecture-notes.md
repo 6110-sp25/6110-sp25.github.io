@@ -84,6 +84,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. SSA ([Slides][r05])
 1. Control Flow Graphs ([Slides][r06], [Demo](https://github.com/6110-sp25/recitation6))
 1. x86 Assembly ([Slides][r07])
+1. Phase 4 and GDB crash course ([Slides][r09])
 
 [r00]: assets/documents/recitations/r0-course-information.pdf
 [r01]: assets/documents/recitations/r01-project-overview-phase1.pdf
@@ -92,6 +93,7 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 [r05]: assets/documents/recitations/r05-ssa.pdf
 [r06]: assets/documents/recitations/r06-cfg.pdf
 [r07]: assets/documents/recitations/r07-x86-asm.pdf
+[r09]: assets/documents/recitations/r09-phase4.pdf
 
 ## Re-lectures from 2024
 
