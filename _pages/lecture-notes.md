@@ -35,8 +35,8 @@ Supplemental readings are listed under each lecture. You may find them useful. Y
 1. [Dataflow Analysis][l08] ([6 slides/page][l08-6])
 1. [Loop Optimizations][l09] ([6 slides/page][l09-6])
 1. [Register Allocation][l10] ([6 slides/page][l10-6])
-1. [Parallelization][l11] ([6 slides/page][l11-6])
 1. [Foundations of Dataflow Analysis][l12] ([6 slides/page][l12-6])
+1. [Parallelization][l11] ([6 slides/page][l11-6])
 
 ### Optional content
 
