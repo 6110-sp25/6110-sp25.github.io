@@ -29,7 +29,7 @@ The lectures and recitations are one hour long and take place:
 | 03/24 - 03/28 | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ | _Spring Break_ |
 | 03/31 - 04/04 | [L9: Loop Optimizations][lecs] | [L10: Register Allocation][lecs] | [L11: Parallelization][lecs] | [L12: Dataflow Theory][lecs] | **Phase 3 due** <br/> Phase 4 released <br/> [R9: Phase 4][recs] |
 | 04/07 - 04/11 |                                                              |                                            |                          |                     |                       [R10: Register Allocation][recs]                       |
-| 04/14 - 04/18 | [L12: Dataflow Theory][lecs] | [L12: Dataflow Theory][lecs] | [L11: Parallelization][lecs]  | *CPW* | **Phase 4 due** <br/> Phase 5 released <br />*CPW*<br/> [R11: Phase 5][recs] |
+| 04/14 - 04/18 | [L12: Dataflow Theory][lecs] | [L12: Dataflow Theory][lecs] | [L11: Parallelization][lecs]  | L13: Memory Optimization <br /> *CPW* | **Phase 4 due** <br/> Phase 5 released <br />*CPW*<br/> [R11: Phase 5][recs] |
 | 04/21 - 04/25 | _Patriots' Day Holiday_ | _Drop Date_ |  | | |
 | 04/28 - 05/02 | | | [Quiz 2 Review][reviews] | **Guest Lecture** <br/> Yaron Minsky <br/> (Jane Street) | **Quiz 2** |
 | 05/05 - 05/09 | | | | | |
