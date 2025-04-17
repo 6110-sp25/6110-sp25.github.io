@@ -7,9 +7,9 @@ nav_order: 45
 In this phase, you will add dataflow optimizations to your compiler.
 
 {: .announcement }
-> There are two deliverables for this phase, both of which are due at **11:59 PM on Friday, April 18**.
-> 1. A [Project Design Document](#design-document) explaining your implementation of dataflow optimizations.
-> 2. Your Decaf compiler, with at least one dataflow optimization implemented.
+> There are two deliverables for this phase.
+> 1. A [Project Design Document](#design-document) explaining your implementation of dataflow optimizations. This part is due **11:59 PM on Saturday, April 19**.
+> 2. Your Decaf compiler, with at least one dataflow optimization implemented. This part is due **11:59 PM on Friday, April 18**.
 >
 > See the [Evaluation section](#evaluation) for details on grading.
 >
