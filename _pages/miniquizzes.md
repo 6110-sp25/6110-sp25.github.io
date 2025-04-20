@@ -12,7 +12,8 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 1. [Miniquiz #3 (due Feb 27)](https://www.gradescope.com/courses/931853/assignments/5713155) — IR and Semantics ([Blank][m03], [Solution][m03-sol])
 1. [Miniquiz #4 (due Mar 6)](https://www.gradescope.com/courses/931853/assignments/5788853) — Code Generation ([Blank][m04], [Solution][m04-sol])
 1. [Miniquiz #5 (due Apr 3)](https://www.gradescope.com/courses/931853/assignments/5963277) — Program Analysis ([Blank][m05], [Solution][m05-sol])
-1. [Miniquiz #6 (due Apr 10)](https://www.gradescope.com/courses/931853/assignments/6033047) — Loop Analysis and Parallelization ([Blank][m06])
+1. [Miniquiz #6 (due Apr 10)](https://www.gradescope.com/courses/931853/assignments/6033047) — Loop Analysis and Parallelization ([Blank][m06], [Solution][mo6-sol])
+1. [Miniquiz #7 (due Apr 24)](https://www.gradescope.com/courses/931853/assignments/6108279) — Foundations of Dataflow Analysis ([Blank][m07])
 
 [m01]: assets/documents/miniquizzes/miniquiz-1.pdf
 [m01-sol]: assets/documents/miniquizzes/miniquiz-1-sol.pdf
@@ -25,3 +26,5 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 [m05]: assets/documents/miniquizzes/miniquiz-5.pdf
 [m05-sol]: assets/documents/miniquizzes/miniquiz-5-sol.pdf
 [m06]: assets/documents/miniquizzes/miniquiz-6.pdf
+[m06-sol]: assets/documents/miniquizzes/miniquiz-6-sol.pdf
+[m07]: assets/documents/miniquizzes/miniquiz-7.pdf
