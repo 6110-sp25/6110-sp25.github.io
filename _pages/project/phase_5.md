@@ -170,6 +170,8 @@ Here are some values of (speedup, score) from this formula:
 | 4       | 24.01/25.0 |
 | 5       | 25.0/25.0  |
 
+**Note**: You must pass all derby test cases to receive a speedup score and receive points. If you pass all derby test cases, but do not pass every correctness test case in Phases 3/4, your score will be capped at 10/25 regardless of your speedup. It is recommended that you submit to the Derby server regularly and check your Phase 3 and 4 correctness with the Phase 5 (Correctness) autograder.
+
 ## Submission
 
 ### Design Document
