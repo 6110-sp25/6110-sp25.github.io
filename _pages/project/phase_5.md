@@ -154,9 +154,21 @@ Your final submission at the end of this phase is worth 75% of the overall grade
 
 You can find the performance results of your submitted code, as well as other teams (under anonymized names), at [the Phase 5 leaderboard](https://6110.yolandgao.com). You will receive your anonymized team name on GitHub. The “Speedup” column on the leaderboard is a geometric mean of the speedup you achieved on each of the test cases.
 
-Your performance score (out of 10) will be calculated from your "Speedup" column on the leaderboard using the following formula that will be released.
+Your performance score (out of 25) will be calculated from your "Speedup" column on the leaderboard using the following formula:
+<center>
+$$\textrm{Score} = \max\{0, 25 \left( 1 - e^{-0.9\cdot (\textrm{Speedup} - 1)} \right) + 0.7 \}.$$
+</center>
+Here are some values of (speedup, score) from this formula:
 
-
+| Speedup |   Score    |
+| ------- | ---------- |
+| 1       | 0.70/25.0  |
+| 1.5     | 9.75/25.0  |
+| 2       | 15.53/25.0 |
+| 2.5     | 19.21/25.0 |
+| 3       | 21.56/25.0 |
+| 4       | 24.01/25.0 |
+| 5       | 25.0/25.0  |
 
 ## Submission
 
