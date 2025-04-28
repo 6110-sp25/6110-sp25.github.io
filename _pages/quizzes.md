@@ -37,7 +37,7 @@ The quiz will cover material starting from the Program Analysis lectures. This c
 - Spring 2022: [Quiz 1](/assets/documents/quizzes/2022sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2022sp-exam2.pdf), ([Solution](/assets/documents/quizzes/2022sp-exam2-key.pdf))
 
 {: .note }
-> - We will only be releasing Quiz 2 from class offerings Spring 2022 to Spring 2025. We believe these quizzes most closely match the content on this year's exam.
+> - We will only be releasing Quiz 2 from class offerings Spring 2022 to Spring 2024. We believe these quizzes most closely match the content on this year's exam.
 > - Although we do not recommend so, if you wish to study older exams, they are available on [last year's website](https://6110-sp24.github.io/quizzes).
 
 - Fall 2018: [Quiz 1](/assets/documents/quizzes/2018fa-exam1.pdf) ([Solution](/assets/documents/quizzes/2018fa-exam1-key.pdf))
