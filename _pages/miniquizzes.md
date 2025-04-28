@@ -28,4 +28,4 @@ The weekly mini-quizzes cover material from the lectures each week, and are grad
 [m06]: assets/documents/miniquizzes/miniquiz-6.pdf
 [m06-sol]: assets/documents/miniquizzes/miniquiz-6-sol.pdf
 [m07]: assets/documents/miniquizzes/miniquiz-7.pdf
-[m06-sol]: assets/documents/miniquizzes/miniquiz-7-sol.pdf
+[m07-sol]: assets/documents/miniquizzes/miniquiz-7-sol.pdf
