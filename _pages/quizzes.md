@@ -31,7 +31,7 @@ The quiz will cover material starting from the Program Analysis lectures. This c
 > - In previous years, we covered shift-reduce parsing. This will not be on the quiz this year.
 > - We will post an errata for errors in Quiz 2 solutions on Piazza.
 
-- Spring 2025: [Quiz 1](/assets/documents/quizzes/2025sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2025sp-exam1-key.pdf))
+- Spring 2025: [Quiz 1](/assets/documents/quizzes/2025sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2025sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2025sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2025sp-exam2-key.pdf))
 - Spring 2024: [Quiz 1](/assets/documents/quizzes/2024sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2024sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2024sp-exam2-key.pdf))
 - Spring 2023: [Quiz 1](/assets/documents/quizzes/2023sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2023sp-exam2.pdf) ([Solution](/assets/documents/quizzes/2023sp-exam2-key.pdf))
 - Spring 2022: [Quiz 1](/assets/documents/quizzes/2022sp-exam1.pdf) ([Solution](/assets/documents/quizzes/2022sp-exam1-key.pdf)), [Quiz 2](/assets/documents/quizzes/2022sp-exam2.pdf), ([Solution](/assets/documents/quizzes/2022sp-exam2-key.pdf))
