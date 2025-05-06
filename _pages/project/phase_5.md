@@ -52,7 +52,7 @@ While the autograder will return some benchmark statistics (mean, median, standa
 
 ### Phase 5 Autograder Information
 
-There are **two** autograders. The first autograder, labeled "Phase 5 (Correctness)", tests the correctness of your compiler against the Phase 3 and Phase 4 test cases to ensure your compiler did not regress. The second autograder, labeled "Phase 5 (Derby)", is how you submit your code to the derby server, and is also where you submit your final code.
+There are **two** autograders. The first autograder, labeled "Phase 5 (Correctness)", tests the correctness of your compiler against the Phase 3-4 test cases and the derby test cases to ensure your compiler did not regress. The second autograder, labeled "Phase 5 (Derby)", is how you submit your code to the derby server, and is also where you submit your final code.
 
 The Derby autograder works a little differently from the previous phases. In previous phases, we were only concerned with correctness, not the speed of the code. However, for the Derby programs, we do care about the performance, so we need to provide you with a clean environment that is free from noise to benchmark the code your compiler generates. For Phase 5, when you submit your code on Gradescope, the autograder will automatically submit your code to a separate, dedicated server, where submissions are executed in a round-robin fashion, one at a time. We expect the variations in performance to be less than 5%.
 
@@ -125,7 +125,7 @@ Your final submission at the end of this phase is worth 40% of the overall grade
   - **5%:** Your summary of the previous phases up to this point, as well as Extras, Difficulties, and the Contribution Statement
 
 - **25%:** Compiler performance: the performance of your final Decaf compiler on the Derby benchmark suite.
-  - **Note:** Your grade for this part will be capped at 10/25 points if your compiler does not produce correct code for all of the Phase 3 and Phase 4 test cases (i.e. your compiler must not regress in correctness)
+  - **Note:** Your grade for this part will be capped at 10/25 points if your compiler does not produce correct code for all of the Phase 3-5 test cases (i.e. your compiler must not regress in correctness)
 
 
 ## Evaluation (Grading Option B)
@@ -146,7 +146,7 @@ Your final submission at the end of this phase is worth 75% of the overall grade
   - You **must** implement a register allocator and at least one dataflow optimization
 
 - **25%**: Compiler performance: the performance of your final Decaf compiler on the Derby benchmark suite.
-  - **Note:** Your grade for this part will be capped at 10/25 points if your compiler does not produce correct code for all of the Phase 3 and Phase 4 test cases
+  - **Note:** Your grade for this part will be capped at 10/25 points if your compiler does not produce correct code for all of the Phase 3-5 test cases
 
 
 
@@ -170,7 +170,7 @@ Here are some values of (speedup, score) from this formula:
 | 4       | 24.01/25.0 |
 | 5       | 25.0/25.0  |
 
-**Note**: You must pass all derby test cases to receive a speedup score and receive points. If you pass all derby test cases, but do not pass every correctness test case in Phases 3/4, your score will be capped at 10/25 regardless of your speedup. It is recommended that you submit to the Derby server regularly and check your Phase 3 and 4 correctness with the Phase 5 (Correctness) autograder.
+**Note**: You must pass all derby test cases to receive a speedup score and receive points. If you pass all derby test cases, but do not pass every correctness test case in Phases 3/4, your score will be capped at 10/25 regardless of your speedup. It is recommended that you submit to the Derby server regularly and check your Phase 3-5 correctness with the Phase 5 (Correctness) autograder.
 
 ## Submission
 
