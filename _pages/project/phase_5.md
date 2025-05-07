@@ -156,18 +156,20 @@ You can find the performance results of your submitted code, as well as other te
 
 Your performance score (out of 25) will be calculated from your "Speedup" column on the leaderboard using the following formula:
 <center>
-$$\textrm{Score} = \max\{0, 25 \left( 1 - e^{-0.9\cdot (\textrm{Speedup} - 1)} \right) + 0.7 \}.$$
+$$\textrm{Score} = \max\{0, 25 \left( 1 - e^{-1.2\cdot (\textrm{Speedup} - 0.7)} \right) + 0.4 \}.$$
 </center>
+
 Here are some values of (speedup, score) from this formula:
 
-| Speedup |   Score    |
+| Speedup | Score      |
 | ------- | ---------- |
-| 1       | 0.70/25.0  |
-| 1.5     | 9.75/25.0  |
-| 2       | 15.53/25.0 |
-| 2.5     | 19.21/25.0 |
-| 3       | 21.56/25.0 |
-| 4       | 24.01/25.0 |
+| 0.7     | 0.4/25.0   |
+| 1       | 7.95/25.0  |
+| 1.5     | 15.82/25.0 |
+| 2       | 20.14/25.0 |
+| 2.5     | 22.51/25.0 |
+| 3       | 23.81/25.0 |
+| 4       | 24.92/25.0 |
 | 5       | 25.0/25.0  |
 
 **Note**: You must pass all derby test cases to receive a speedup score and receive points. If you pass all derby test cases, but do not pass every correctness test case in Phases 3/4, your score will be capped at 10/25 regardless of your speedup. It is recommended that you submit to the Derby server regularly and check your Phase 3-5 correctness with the Phase 5 (Correctness) autograder.
