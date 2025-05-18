@@ -140,7 +140,7 @@ Your final submission at the end of this phase is worth 75% of the overall grade
   - **(1%)** - You may write one cumulative extras, contribution statement, and difficulties sections for all phases.
   
 - **25%**: Compiler correctness
-  - **(5%)** - Phase 1/2 correctness
+  - **(10%)** - Phase 1/2 correctness
   - **(10%)** - Phase 3 correctness
   - **(5%)** - Phase 4/5 correctness
   - You **must** implement a register allocator and at least one dataflow optimization
